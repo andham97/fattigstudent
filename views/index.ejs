@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta property="og:image" content="images/og.jpeg"/>
+    <meta name="Title" content="Fattigstudent.no">
+    <meta name="Description"
+          content="Fattigstudent.no hjelper deg med å finne den billigste alkoholen så du får mest ut av festen uten å bruke en formue.">
+    <meta name="Keywords" content="Fattigstudent.no Fattigstudent Fattig student Alkohol Billig Vinmonopolet PPK ">
+    <title>Fattigstudent.no</title>
+    <link rel="shortcut icon" type="image/png" href="/favicon.ico"/>
+    <link rel='stylesheet' href='/stylesheets/pure-min.css'/>
+    <link rel='stylesheet' href='/stylesheets/style.css'/>
+    <link rel='stylesheet' href='/stylesheets/HTMLToolTips.Animation.css'/>
+    <link rel='stylesheet' href='/stylesheets/html5tooltips.css'/>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+    <script src="/javascripts/cookie.js"></script>
+    <script src="/javascripts/HTMLToolTips.js"></script>
+    <script src="/javascripts/indexejs.js"></script>
+    <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+    <script type="text/javascript">
+        window.cookieconsent_options = {
+            "message": "This website uses cookies to ensure you get the best experience on our website",
+            "dismiss": "Got it!",
+            "learnMore": "More info",
+            "link": null,
+            "theme": "light-bottom"
+        };
+    </script>
+    <script type="text/javascript"
+            src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js"></script>
+    <!-- End Cookie Consent plugin -->
+</head>
+<body>
+<div id="sentre">
+    <div id="topBox">
+        <header>
+            <a href="/"><img id="topLogo" src="/images/Logohvit-tekst.png"></a>
+        </header>
+        <div id="searchArea">
+            <div id="searchBox">
+                <form action="" method="get" id="searchForm">
+                    <input type="text" name="lat" value="" style="display: none;">
+                    <input type="text" name="long" value="" style="display: none;">
+                    <input type="text" name="pageNum" value="1" style="display: none;"/>
+                    <input type="text" name="orderBy" value="PPK" style="display: none;"/>
+                    <input type="checkbox" name="roulette" style="display: none;"/>
+                    <input type="checkbox" name="ASC" style="display: none;"/>
+                    <input type="text" placeholder="Søk i vinmonopolets database" name="search"/>
+                    <button type="button" onclick="srch()" class="searchButton" id="searchPicture"></button>
+                    <button onclick="advanced()" type="button" class="pure-button">Avansert Søk</button>
+                    <button onclick="rlette()" type="button" class="pure-button">Roulette</button>
+                    <input type="checkbox" name="birthLimit"/> Under 20år?
+                    <div id="advanceSearch" style="display: none;">
+                        <ul style="list-style-type: none;">
+                            <li><h3 style="margin-bottom: 3px;">Pris</h3></li>
+                            <li><input type="text" name="pmin" placeholder="Minste pris"/> - <input type="text"
+                                                                                                    name="pmax"
+                                                                                                    placeholder="Største pris"/>
+                            </li>
+                            <li><h3 style="margin-bottom: 3px;">Volum</h3></li>
+                            <li><input type="text" name="vmin" placeholder="Minste volum"/> - <input type="text"
+                                                                                                     name="vmax"
+                                                                                                     placeholder="Største volum"/>
+                            </li>
+                            <li><h3 style="margin-bottom: 3px;">Begrens kategorier</h3></li>
+                            <li><input type="checkbox" name="beer"/>Øl</li>
+                            <li id="wine-label"><input type="checkbox" name="wine"/>Vin</li>
+                            <li>
+                                <ul style="list-style-type: none; display: none;" id="list-wine">
+                                    <li><input type="checkbox" name="redwine"/>Rødvin</li>
+                                    <li><input type="checkbox" name="whitewine"/>Hvitvin</li>
+                                    <li><input type="checkbox" name="rosewine"/>Rosévin</li>
+                                    <li><input type="checkbox" name="sparklingwine"/>Musserende vin</li>
+                                    <li><input type="checkbox" name="fruitwine"/>Fruktvin</li>
+                                    <li><input type="checkbox" name="wannet"/>Annet</li>
+                                </ul>
+                            </li>
+                            <li id="liquor-label"><input type="checkbox" name="liquor"/>Brennevin</li>
+                            <li>
+                                <ul style="list-style-type: none; display: none;" id="list-liquor">
+                                    <li><input type="checkbox" name="vodka"/>Vodka</li>
+                                    <li><input type="checkbox" name="whiskey"/>Whiskey</li>
+                                    <li><input type="checkbox" name="druebrennevin"/>Druebrennevin</li>
+                                    <li><input type="checkbox" name="liqueur"/>Likør</li>
+                                    <li><input type="checkbox" name="akevitt"/>Akevitt</li>
+                                    <li><input type="checkbox" name="fruktbrennevin"/>Fruktbrennevin</li>
+                                    <li><input type="checkbox" name="rom"/>Rom</li>
+                                    <li><input type="checkbox" name="gin"/>Gin</li>
+                                    <li><input type="checkbox" name="bitter"/>Bitter</li>
+                                    <li><input type="checkbox" name="genever"/>Genever</li>
+                                    <li><input type="checkbox" name="lannet"/>Annet</li>
+                                    <li><input type="checkbox" name="liqueuru"/>Likør u/22%</li>
+                                    <li><input type="checkbox" name="bitteru"/>Bitter u/22%</li>
+                                    <li><input type="checkbox" name="lannetu"/>Annet u/22%</li>
+                                </ul>
+                            </li>
+                            <li id="strong-wine-label"><input type="checkbox" name="strongwine"/>Sterkvin</li>
+                            <li>
+                                <ul style="list-style-type: none; display: none;" id="list-strong-wine">
+                                    <li><input type="checkbox" name="portvin"/>Portvin</li>
+                                    <li><input type="checkbox" name="sherry"/>Sherry</li>
+                                    <li><input type="checkbox" name="vermut"/>Vermut</li>
+                                    <li><input type="checkbox" name="madeira"/>Madeira</li>
+                                    <li><input type="checkbox" name="sannet"/>Annet</li>
+                                </ul>
+                            </li>
+                            <li><input type="checkbox" name="alcoholfree"/>Alkoholfritt</li>
+                        </ul>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+    <div id="content" style="text-align: center;">
+        <div id="r">
+            <%- result %>
+        </div>
+        <%- page %>
+        <button class="pure-button" onclick="lastPage()" style="display: none; float: left;" id="lastPage">Forrige
+            side
+        </button>
+        <%- nextPageStart %>
+        <button class="pure-button" onclick="nextPage()" style="display: none; float: right;" id="nextPage">Neste side
+        </button><%- nextPageEnd %>
+    </div>
+    <footer>
+        <div class="smallbox">
+            <h2>FAQ</h2>
+            <h4>Hva er PPK </h4>
+            <h4>Hvordan bidra til prosjektet</h4>
+        </div>
+
+        <div class="smallbox">
+            <h2>KONTAKT OSS</h2>
+            <h4>Mail</h4>
+            <h5>kontakt@fattigstudent.no</h5>
+        </div>
+
+        <div class="smallbox">
+            <h2>SOSIALT</h2>
+            <h4>Facebook</h4>
+            <h4>Twitter</h4>
+            <h4>Snapchat</h4>
+        </div>
+        <span class="smallbox"><img id="bottomLogo" src="/images/Logohvit-tekst.png" alt="Fattigstudent.no"></span>
+    </footer>
+
+</div>
+</body>
+</html>

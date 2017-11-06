@@ -1,0 +1,2353 @@
+
+> app@0.0.0 start /home/pi/NodeJS/app
+> node ./bin/www
+
+Server is running...
+[Wed, 11 May 2016 08:18:45 GMT] "GET /robots.txt" 404 886 - 426.618 ms
+{}
+[Wed, 11 May 2016 08:19:12 GMT] "GET /" 200 10495 - 1077.960 ms
+{}
+[Wed, 11 May 2016 08:24:54 GMT] "GET /" 200 10495 - 323.777 ms
+[Wed, 11 May 2016 08:24:54 GMT] "GET /HNAP1/" 404 886 - 28.618 ms
+{}
+[Wed, 11 May 2016 08:25:47 GMT] "GET /" 200 10495 - 133.963 ms
+[Wed, 11 May 2016 08:25:48 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 200 10901 - 95.977 ms
+[Wed, 11 May 2016 08:25:48 GMT] "GET /stylesheets/html5tooltips.css" 200 1512 - 99.077 ms
+[Wed, 11 May 2016 08:25:48 GMT] "GET /stylesheets/style.css" 200 2677 - 107.821 ms
+[Wed, 11 May 2016 08:25:48 GMT] "GET /javascripts/HTMLToolTips.js" 200 21237 - 108.472 ms
+[Wed, 11 May 2016 08:25:48 GMT] "GET /javascripts/indexejs.js" 200 6813 - 126.102 ms
+[Wed, 11 May 2016 08:25:48 GMT] "GET /javascripts/cookie.js" 200 4818 - 128.494 ms
+[Wed, 11 May 2016 08:25:48 GMT] "GET /images/Logohvit-tekst.png" 200 61973 - 121.175 ms
+[Wed, 11 May 2016 08:25:48 GMT] "GET /images/Search.png" 200 389 - 10.206 ms
+[Wed, 11 May 2016 08:25:52 GMT] "GET /visitationCounter" 200 31 - 148.588 ms
+{}
+[Wed, 11 May 2016 08:54:51 GMT] "GET /" 304 - - 182.905 ms
+[Wed, 11 May 2016 08:54:51 GMT] "GET /apple-touch-icon-120x120-precomposed.png" 404 886 - 21.984 ms
+[Wed, 11 May 2016 08:54:51 GMT] "GET /apple-touch-icon-120x120.png" 404 886 - 17.476 ms
+[Wed, 11 May 2016 08:54:51 GMT] "GET /apple-touch-icon.png" 404 886 - 16.646 ms
+[Wed, 11 May 2016 08:54:51 GMT] "GET /apple-touch-icon.png" 404 886 - 16.497 ms
+{}
+[Wed, 11 May 2016 09:01:04 GMT] "GET /" 200 10495 - 165.072 ms
+[Wed, 11 May 2016 09:07:01 GMT] "GET /style.css" 404 886 - 16.293 ms
+[Wed, 11 May 2016 09:07:07 GMT] "GET /stylesheets/html5tooltips.css" 200 1512 - 10.662 ms
+[Wed, 11 May 2016 09:07:09 GMT] "GET /javascripts/indexejs.js" 200 6813 - 54.198 ms
+[Wed, 11 May 2016 09:07:10 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 200 10901 - 9.905 ms
+[Wed, 11 May 2016 09:07:11 GMT] "GET /javascripts/cookie.js" 200 4818 - 9.635 ms
+[Wed, 11 May 2016 09:07:11 GMT] "GET /stylesheets/style.css" 200 2677 - 9.813 ms
+[Wed, 11 May 2016 09:07:15 GMT] "GET /javascripts/HTMLToolTips.js" 200 21237 - 9.601 ms
+{}
+[Wed, 11 May 2016 09:52:02 GMT] "GET /" 304 - - 172.667 ms
+[Wed, 11 May 2016 09:52:02 GMT] "GET /stylesheets/style.css" 200 2677 - 77.511 ms
+[Wed, 11 May 2016 09:52:02 GMT] "GET /stylesheets/html5tooltips.css" 200 1512 - 76.807 ms
+[Wed, 11 May 2016 09:52:02 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 200 10901 - 76.455 ms
+[Wed, 11 May 2016 09:52:02 GMT] "GET /javascripts/cookie.js" 200 4818 - 77.371 ms
+[Wed, 11 May 2016 09:52:02 GMT] "GET /javascripts/indexejs.js" 200 6813 - 76.738 ms
+[Wed, 11 May 2016 09:52:02 GMT] "GET /javascripts/HTMLToolTips.js" 200 21237 - 77.974 ms
+[Wed, 11 May 2016 09:52:02 GMT] "GET /images/Logohvit-tekst.png" 200 61973 - 10.653 ms
+[Wed, 11 May 2016 09:52:02 GMT] "GET /images/Search.png" 200 389 - 10.751 ms
+{}
+[Wed, 11 May 2016 10:16:33 GMT] "GET /" 200 10495 - 171.941 ms
+[Wed, 11 May 2016 10:16:34 GMT] "GET /stylesheets/style.css" 200 2677 - 10.429 ms
+[Wed, 11 May 2016 10:16:34 GMT] "GET /stylesheets/html5tooltips.css" 200 1512 - 71.200 ms
+[Wed, 11 May 2016 10:16:34 GMT] "GET /javascripts/cookie.js" 200 4818 - 71.447 ms
+[Wed, 11 May 2016 10:16:34 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 200 10901 - 71.610 ms
+[Wed, 11 May 2016 10:16:34 GMT] "GET /javascripts/indexejs.js" 200 6813 - 70.960 ms
+[Wed, 11 May 2016 10:16:34 GMT] "GET /javascripts/HTMLToolTips.js" 200 21237 - 49.742 ms
+[Wed, 11 May 2016 10:16:34 GMT] "GET /images/Logohvit-tekst.png" 200 61973 - 73.662 ms
+[Wed, 11 May 2016 10:16:34 GMT] "GET /images/Search.png" 200 389 - 9.569 ms
+[Wed, 11 May 2016 10:16:51 GMT] "GET /visitationCounter" 200 31 - 125.941 ms
+{}
+[Wed, 11 May 2016 10:28:45 GMT] "GET /" 304 - - 176.831 ms
+[Wed, 11 May 2016 10:28:45 GMT] "GET /stylesheets/style.css" 304 - - 40.997 ms
+[Wed, 11 May 2016 10:28:45 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 41.520 ms
+[Wed, 11 May 2016 10:28:45 GMT] "GET /javascripts/cookie.js" 304 - - 39.741 ms
+[Wed, 11 May 2016 10:28:45 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 38.601 ms
+[Wed, 11 May 2016 10:28:45 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 37.380 ms
+[Wed, 11 May 2016 10:28:45 GMT] "GET /javascripts/indexejs.js" 304 - - 6.501 ms
+[Wed, 11 May 2016 10:28:45 GMT] "GET /images/Logohvit-tekst.png" 304 - - 6.609 ms
+[Wed, 11 May 2016 10:28:45 GMT] "GET /images/Search.png" 304 - - 6.355 ms
+{}
+[Wed, 11 May 2016 10:46:33 GMT] "GET /" 200 10495 - 176.203 ms
+{}
+[Wed, 11 May 2016 10:46:33 GMT] "GET /" 200 10495 - 144.374 ms
+{}
+[Wed, 11 May 2016 11:03:39 GMT] "GET /" 200 10495 - 172.037 ms
+[Wed, 11 May 2016 11:03:39 GMT] "GET /stylesheets/style.css" 200 2677 - 11.087 ms
+[Wed, 11 May 2016 11:03:39 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 200 10901 - 92.776 ms
+[Wed, 11 May 2016 11:03:39 GMT] "GET /javascripts/cookie.js" 200 4818 - 90.908 ms
+[Wed, 11 May 2016 11:03:39 GMT] "GET /stylesheets/html5tooltips.css" 200 1512 - 93.778 ms
+[Wed, 11 May 2016 11:03:39 GMT] "GET /javascripts/indexejs.js" 200 6813 - 74.296 ms
+[Wed, 11 May 2016 11:03:39 GMT] "GET /javascripts/HTMLToolTips.js" 200 21237 - 93.316 ms
+[Wed, 11 May 2016 11:03:39 GMT] "GET /images/Logohvit-tekst.png" 200 61973 - 57.911 ms
+[Wed, 11 May 2016 11:03:46 GMT] "GET /images/placeholder_logo.png" 404 886 - 18.408 ms
+[Wed, 11 May 2016 11:03:47 GMT] "GET /images/placeholder_logo.png" 404 886 - 17.120 ms
+[Wed, 11 May 2016 11:07:32 GMT] "GET /visitationCounter" 200 31 - 171.073 ms
+{}
+[Wed, 11 May 2016 11:07:47 GMT] "GET /" 304 - - 113.178 ms
+[Wed, 11 May 2016 11:07:48 GMT] "GET /stylesheets/style.css" 200 2677 - 88.721 ms
+[Wed, 11 May 2016 11:07:48 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 200 10901 - 89.154 ms
+[Wed, 11 May 2016 11:07:48 GMT] "GET /stylesheets/html5tooltips.css" 200 1512 - 89.624 ms
+[Wed, 11 May 2016 11:07:48 GMT] "GET /javascripts/cookie.js" 200 4818 - 89.663 ms
+[Wed, 11 May 2016 11:07:48 GMT] "GET /javascripts/indexejs.js" 200 6813 - 86.215 ms
+[Wed, 11 May 2016 11:07:48 GMT] "GET /javascripts/HTMLToolTips.js" 200 21237 - 94.010 ms
+[Wed, 11 May 2016 11:07:48 GMT] "GET /images/Logohvit-tekst.png" 200 61973 - 14.708 ms
+[Wed, 11 May 2016 11:07:48 GMT] "GET /images/Search.png" 200 389 - 22.588 ms
+[Wed, 11 May 2016 11:07:59 GMT] "GET /stylesheets/style.css" 304 - - 155.837 ms
+[Wed, 11 May 2016 11:07:59 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 53.268 ms
+[Wed, 11 May 2016 11:07:59 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 45.670 ms
+{}
+[Wed, 11 May 2016 11:08:26 GMT] "GET /linkClick?url=http%3A%2F%2Ffattigstudent.no%2F" 200 34 - 152.486 ms
+[Wed, 11 May 2016 11:08:26 GMT] "GET /" 200 11011 - 260.263 ms
+{}
+[Wed, 11 May 2016 11:08:26 GMT] "GET /" 200 11011 - 119.361 ms
+[Wed, 11 May 2016 11:08:26 GMT] "GET /stylesheets/style.css" 304 - - 51.647 ms
+[Wed, 11 May 2016 11:08:26 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 52.130 ms
+[Wed, 11 May 2016 11:08:26 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 48.702 ms
+[Wed, 11 May 2016 11:08:26 GMT] "GET /javascripts/cookie.js" 304 - - 52.000 ms
+[Wed, 11 May 2016 11:08:26 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 51.081 ms
+[Wed, 11 May 2016 11:08:26 GMT] "GET /images/Logohvit-tekst.png" 304 - - 8.022 ms
+[Wed, 11 May 2016 11:08:26 GMT] "GET /stylesheets/pure-min.css" 200 21340 - 115.773 ms
+[Wed, 11 May 2016 11:08:26 GMT] "GET /javascripts/indexejs.js" 304 - - 19.099 ms
+[Wed, 11 May 2016 11:08:27 GMT] "GET /images/Search.png" 304 - - 8.648 ms
+{}
+[Wed, 11 May 2016 11:09:04 GMT] "GET /" 200 11051 - 196.971 ms
+[Wed, 11 May 2016 11:09:04 GMT] "GET /stylesheets/style.css" 304 - - 49.662 ms
+[Wed, 11 May 2016 11:09:04 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 53.066 ms
+[Wed, 11 May 2016 11:09:04 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 52.255 ms
+[Wed, 11 May 2016 11:09:04 GMT] "GET /stylesheets/pure-min.css" 304 - - 52.192 ms
+[Wed, 11 May 2016 11:09:04 GMT] "GET /javascripts/cookie.js" 304 - - 50.940 ms
+[Wed, 11 May 2016 11:09:04 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 47.106 ms
+[Wed, 11 May 2016 11:09:04 GMT] "GET /javascripts/indexejs.js" 304 - - 17.683 ms
+[Wed, 11 May 2016 11:09:04 GMT] "GET /images/Logohvit-tekst.png" 304 - - 13.192 ms
+[Wed, 11 May 2016 11:09:04 GMT] "GET /images/Search.png" 304 - - 6.749 ms
+[Wed, 11 May 2016 11:09:06 GMT] "GET http://testp4.pospr.waw.pl/testproxy.php" 404 886 - 34.249 ms
+{}
+[Wed, 11 May 2016 11:12:06 GMT] "GET /" 200 11051 - 325.294 ms
+[Wed, 11 May 2016 11:12:07 GMT] "GET /stylesheets/pure-min.css" 200 21340 - 124.467 ms
+[Wed, 11 May 2016 11:12:07 GMT] "GET /stylesheets/style.css" 200 2677 - 127.089 ms
+[Wed, 11 May 2016 11:12:07 GMT] "GET /stylesheets/html5tooltips.css" 200 1512 - 119.640 ms
+[Wed, 11 May 2016 11:12:07 GMT] "GET /javascripts/cookie.js" 200 4818 - 119.873 ms
+[Wed, 11 May 2016 11:12:07 GMT] "GET /javascripts/HTMLToolTips.js" 200 21237 - 120.865 ms
+[Wed, 11 May 2016 11:12:07 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 200 10901 - 123.178 ms
+[Wed, 11 May 2016 11:12:07 GMT] "GET /javascripts/indexejs.js" 200 6813 - 31.296 ms
+[Wed, 11 May 2016 11:12:07 GMT] "GET /images/Logohvit-tekst.png" 200 61973 - 31.150 ms
+[Wed, 11 May 2016 11:12:07 GMT] "GET /images/Search.png" 200 389 - 12.144 ms
+{}
+[Wed, 11 May 2016 11:12:45 GMT] "GET /" 200 11110 - 201.247 ms
+[Wed, 11 May 2016 11:12:45 GMT] "GET /stylesheets/pure-min.css" 200 21340 - 81.763 ms
+[Wed, 11 May 2016 11:12:45 GMT] "GET /stylesheets/style.css" 200 2677 - 82.543 ms
+[Wed, 11 May 2016 11:12:45 GMT] "GET /stylesheets/html5tooltips.css" 200 1512 - 78.351 ms
+[Wed, 11 May 2016 11:12:45 GMT] "GET /javascripts/cookie.js" 200 4818 - 78.822 ms
+[Wed, 11 May 2016 11:12:45 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 200 10901 - 82.782 ms
+[Wed, 11 May 2016 11:12:45 GMT] "GET /javascripts/HTMLToolTips.js" 200 21237 - 61.594 ms
+[Wed, 11 May 2016 11:12:45 GMT] "GET /javascripts/indexejs.js" 200 6813 - 30.673 ms
+[Wed, 11 May 2016 11:12:45 GMT] "GET /images/Logohvit-tekst.png" 200 61973 - 23.715 ms
+[Wed, 11 May 2016 11:12:45 GMT] "GET /images/Search.png" 200 389 - 12.376 ms
+{}
+[Wed, 11 May 2016 11:14:34 GMT] "GET /" 200 11021 - 268.470 ms
+[Wed, 11 May 2016 11:14:34 GMT] "GET /stylesheets/pure-min.css" 200 21340 - 86.731 ms
+[Wed, 11 May 2016 11:14:34 GMT] "GET /stylesheets/style.css" 200 2677 - 88.116 ms
+[Wed, 11 May 2016 11:14:34 GMT] "GET /stylesheets/html5tooltips.css" 200 1512 - 83.405 ms
+[Wed, 11 May 2016 11:14:34 GMT] "GET /javascripts/cookie.js" 200 4818 - 85.584 ms
+[Wed, 11 May 2016 11:14:34 GMT] "GET /javascripts/HTMLToolTips.js" 200 21237 - 86.731 ms
+[Wed, 11 May 2016 11:14:34 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 200 10901 - 88.333 ms
+[Wed, 11 May 2016 11:14:34 GMT] "GET /javascripts/indexejs.js" 200 6813 - 32.260 ms
+[Wed, 11 May 2016 11:14:34 GMT] "GET /images/Logohvit-tekst.png" 200 61973 - 30.896 ms
+[Wed, 11 May 2016 11:14:34 GMT] "GET /images/Search.png" 200 389 - 12.878 ms
+{}
+[Wed, 11 May 2016 11:28:53 GMT] "GET /" 200 11021 - 251.644 ms
+[Wed, 11 May 2016 11:28:53 GMT] "GET /stylesheets/pure-min.css" 200 21340 - 84.011 ms
+[Wed, 11 May 2016 11:28:53 GMT] "GET /stylesheets/style.css" 200 2677 - 90.594 ms
+[Wed, 11 May 2016 11:28:53 GMT] "GET /stylesheets/html5tooltips.css" 200 1512 - 90.314 ms
+[Wed, 11 May 2016 11:28:53 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 200 10901 - 91.480 ms
+[Wed, 11 May 2016 11:28:53 GMT] "GET /javascripts/cookie.js" 200 4818 - 79.269 ms
+[Wed, 11 May 2016 11:28:53 GMT] "GET /javascripts/HTMLToolTips.js" 200 21237 - 79.620 ms
+[Wed, 11 May 2016 11:28:53 GMT] "GET /javascripts/indexejs.js" 200 6813 - 28.913 ms
+[Wed, 11 May 2016 11:28:53 GMT] "GET /images/Logohvit-tekst.png" 200 61973 - 10.127 ms
+[Wed, 11 May 2016 11:28:53 GMT] "GET /images/Search.png" 200 389 - 11.359 ms
+{ pageNum: '1',
+  orderBy: 'PPK',
+  search: 'mickey finn',
+  pmin: '',
+  pmax: '',
+  vmin: '',
+  vmax: '' }
+4
+[Wed, 11 May 2016 11:29:00 GMT] "GET /?pageNum=1&orderBy=PPK&search=mickey+finn&pmin=&pmax=&vmin=&vmax=" 200 9796 - 254.118 ms
+Success
+[Wed, 11 May 2016 11:29:01 GMT] "GET /stylesheets/pure-min.css" 304 - - 75.428 ms
+[Wed, 11 May 2016 11:29:01 GMT] "GET /stylesheets/style.css" 304 - - 66.124 ms
+[Wed, 11 May 2016 11:29:01 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 55.121 ms
+[Wed, 11 May 2016 11:29:01 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 54.984 ms
+[Wed, 11 May 2016 11:29:01 GMT] "GET /javascripts/cookie.js" 304 - - 48.634 ms
+[Wed, 11 May 2016 11:29:01 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 47.150 ms
+[Wed, 11 May 2016 11:29:01 GMT] "GET /javascripts/indexejs.js" 304 - - 13.239 ms
+[Wed, 11 May 2016 11:29:01 GMT] "GET /images/Logohvit-tekst.png" 304 - - 12.760 ms
+Success
+[Wed, 11 May 2016 11:29:01 GMT] "GET /images/Search.png" 304 - - 5.872 ms
+Success
+Success
+[Wed, 11 May 2016 11:29:08 GMT] "GET /linkClick?url=http%3A%2F%2Fwww.vinmonopolet.no%2Fvareutvalg%2Fvaredetaljer%2Fsku-2061801" 200 34 - 126.883 ms
+{ pageNum: '1',
+  orderBy: 'Volum',
+  search: '',
+  pmin: '',
+  pmax: '',
+  vmin: '',
+  vmax: '' }
+14354
+[Wed, 11 May 2016 11:30:35 GMT] "GET /?pageNum=1&orderBy=Volum&search=&pmin=&pmax=&vmin=&vmax=" 200 11022 - 393.433 ms
+Success
+Success
+Success
+[Wed, 11 May 2016 11:30:35 GMT] "GET /stylesheets/pure-min.css" 200 21340 - 36.605 ms
+[Wed, 11 May 2016 11:30:35 GMT] "GET /stylesheets/style.css" 200 2677 - 46.240 ms
+Success
+[Wed, 11 May 2016 11:30:36 GMT] "GET /stylesheets/html5tooltips.css" 200 1512 - 58.023 ms
+[Wed, 11 May 2016 11:30:36 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 200 10901 - 59.517 ms
+[Wed, 11 May 2016 11:30:36 GMT] "GET /javascripts/indexejs.js" 200 6813 - 56.370 ms
+[Wed, 11 May 2016 11:30:36 GMT] "GET /javascripts/cookie.js" 200 4818 - 52.472 ms
+[Wed, 11 May 2016 11:30:36 GMT] "GET /javascripts/HTMLToolTips.js" 200 21237 - 52.841 ms
+Success
+[Wed, 11 May 2016 11:30:36 GMT] "GET /images/Logohvit-tekst.png" 200 61973 - 10.016 ms
+Success
+Success
+[Wed, 11 May 2016 11:30:36 GMT] "GET /images/Search.png" 200 389 - 9.718 ms
+Success
+Success
+Success
+{}
+[Wed, 11 May 2016 11:45:54 GMT] "GET /" 200 11021 - 183.355 ms
+[Wed, 11 May 2016 11:45:54 GMT] "GET /stylesheets/pure-min.css" 200 21340 - 29.592 ms
+[Wed, 11 May 2016 11:45:54 GMT] "GET /stylesheets/style.css" 200 2677 - 78.087 ms
+[Wed, 11 May 2016 11:45:54 GMT] "GET /stylesheets/html5tooltips.css" 200 1512 - 69.518 ms
+[Wed, 11 May 2016 11:45:54 GMT] "GET /javascripts/cookie.js" 200 4818 - 68.610 ms
+[Wed, 11 May 2016 11:45:54 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 200 10901 - 72.498 ms
+[Wed, 11 May 2016 11:45:54 GMT] "GET /javascripts/indexejs.js" 200 6813 - 60.323 ms
+[Wed, 11 May 2016 11:45:54 GMT] "GET /javascripts/HTMLToolTips.js" 200 21237 - 60.077 ms
+[Wed, 11 May 2016 11:45:54 GMT] "GET /images/Logohvit-tekst.png" 200 61973 - 11.660 ms
+[Wed, 11 May 2016 11:45:55 GMT] "GET /images/Search.png" 200 389 - 10.915 ms
+{ pageNum: '2',
+  orderBy: '',
+  search: '',
+  pmin: '',
+  pmax: '',
+  vmin: '',
+  vmax: '' }
+14354
+[Wed, 11 May 2016 11:46:28 GMT] "GET /?pageNum=2&orderBy=&search=&pmin=&pmax=&vmin=&vmax=" 200 11081 - 198.116 ms
+Success
+[Wed, 11 May 2016 11:46:28 GMT] "GET /stylesheets/pure-min.css" 304 - - 46.419 ms
+[Wed, 11 May 2016 11:46:28 GMT] "GET /stylesheets/style.css" 304 - - 44.368 ms
+[Wed, 11 May 2016 11:46:28 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 42.616 ms
+[Wed, 11 May 2016 11:46:28 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 42.376 ms
+[Wed, 11 May 2016 11:46:28 GMT] "GET /javascripts/cookie.js" 304 - - 41.449 ms
+[Wed, 11 May 2016 11:46:28 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 40.599 ms
+Success
+[Wed, 11 May 2016 11:46:28 GMT] "GET /images/Logohvit-tekst.png" 304 - - 18.267 ms
+[Wed, 11 May 2016 11:46:28 GMT] "GET /javascripts/indexejs.js" 304 - - 13.224 ms
+Success
+Success
+[Wed, 11 May 2016 11:46:28 GMT] "GET /images/Search.png" 304 - - 6.288 ms
+Success
+Success
+Success
+Success
+Success
+Success
+[Wed, 11 May 2016 11:46:31 GMT] "GET /linkClick?url=http%3A%2F%2Fwww.vinmonopolet.no%2Fvareutvalg%2Fvaredetaljer%2Fsku-535201" 200 34 - 114.173 ms
+{ pageNum: '1',
+  orderBy: 'PPK',
+  search: '1 OR 1+1',
+  pmin: '',
+  pmax: '',
+  vmin: '',
+  vmax: '' }
+0
+[Wed, 11 May 2016 11:48:07 GMT] "GET /?pageNum=1&orderBy=PPK&search=1+OR+1%2B1&pmin=&pmax=&vmin=&vmax=" 200 8477 - 219.885 ms
+[Wed, 11 May 2016 11:48:07 GMT] "GET /stylesheets/pure-min.css" 304 - - 7.147 ms
+[Wed, 11 May 2016 11:48:07 GMT] "GET /stylesheets/style.css" 304 - - 18.801 ms
+[Wed, 11 May 2016 11:48:07 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 38.352 ms
+[Wed, 11 May 2016 11:48:07 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 36.752 ms
+[Wed, 11 May 2016 11:48:07 GMT] "GET /javascripts/cookie.js" 304 - - 35.723 ms
+[Wed, 11 May 2016 11:48:07 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 34.677 ms
+[Wed, 11 May 2016 11:48:07 GMT] "GET /javascripts/indexejs.js" 304 - - 33.447 ms
+[Wed, 11 May 2016 11:48:07 GMT] "GET /images/Logohvit-tekst.png" 304 - - 6.811 ms
+[Wed, 11 May 2016 11:48:07 GMT] "GET /images/Search.png" 304 - - 6.403 ms
+{ pageNum: '1',
+  orderBy: 'Volum',
+  search: '',
+  pmin: '',
+  pmax: '',
+  vmin: '',
+  vmax: '' }
+14354
+[Wed, 11 May 2016 12:17:44 GMT] "GET /?pageNum=1&orderBy=Volum&search=&pmin=&pmax=&vmin=&vmax=" 200 11022 - 280.984 ms
+[Wed, 11 May 2016 12:17:45 GMT] "GET /stylesheets/pure-min.css" 200 21340 - 57.448 ms
+[Wed, 11 May 2016 12:17:45 GMT] "GET /stylesheets/style.css" 200 2677 - 79.866 ms
+[Wed, 11 May 2016 12:17:45 GMT] "GET /stylesheets/html5tooltips.css" 200 1512 - 78.462 ms
+[Wed, 11 May 2016 12:17:45 GMT] "GET /javascripts/cookie.js" 200 4818 - 79.157 ms
+[Wed, 11 May 2016 12:17:45 GMT] "GET /javascripts/HTMLToolTips.js" 200 21237 - 80.397 ms
+[Wed, 11 May 2016 12:17:45 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 200 10901 - 79.920 ms
+Success
+[Wed, 11 May 2016 12:17:45 GMT] "GET /javascripts/indexejs.js" 200 6813 - 67.503 ms
+[Wed, 11 May 2016 12:17:45 GMT] "GET /images/Logohvit-tekst.png" 200 61973 - 18.649 ms
+[Wed, 11 May 2016 12:17:45 GMT] "GET /images/Search.png" 200 389 - 12.079 ms
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+{}
+[Wed, 11 May 2016 12:30:25 GMT] "GET /" 200 11021 - 175.902 ms
+[Wed, 11 May 2016 12:30:37 GMT] "GET /stylesheets/pure-min.css" 200 21340 - 10.630 ms
+{}
+[Wed, 11 May 2016 15:10:58 GMT] "GET /" 304 - - 184.595 ms
+[Wed, 11 May 2016 15:10:58 GMT] "GET /stylesheets/style.css" 304 - - 25.904 ms
+[Wed, 11 May 2016 15:10:58 GMT] "GET /stylesheets/pure-min.css" 304 - - 12.893 ms
+[Wed, 11 May 2016 15:10:58 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 41.687 ms
+[Wed, 11 May 2016 15:10:58 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 39.771 ms
+[Wed, 11 May 2016 15:10:58 GMT] "GET /javascripts/cookie.js" 304 - - 35.387 ms
+[Wed, 11 May 2016 15:10:58 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 34.073 ms
+[Wed, 11 May 2016 15:10:58 GMT] "GET /javascripts/indexejs.js" 304 - - 32.942 ms
+[Wed, 11 May 2016 15:10:58 GMT] "GET /images/Logohvit-tekst.png" 304 - - 6.257 ms
+[Wed, 11 May 2016 15:10:59 GMT] "GET /images/Search.png" 304 - - 6.231 ms
+{}
+[Wed, 11 May 2016 16:26:24 GMT] "GET /" 304 - - 200.677 ms
+[Wed, 11 May 2016 16:26:25 GMT] "GET /stylesheets/style.css" 304 - - 21.895 ms
+[Wed, 11 May 2016 16:26:25 GMT] "GET /stylesheets/pure-min.css" 304 - - 19.958 ms
+[Wed, 11 May 2016 16:26:25 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 7.277 ms
+[Wed, 11 May 2016 16:26:25 GMT] "GET /javascripts/indexejs.js" 304 - - 29.793 ms
+[Wed, 11 May 2016 16:26:25 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 28.616 ms
+[Wed, 11 May 2016 16:26:25 GMT] "GET /javascripts/cookie.js" 304 - - 27.299 ms
+[Wed, 11 May 2016 16:26:25 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 25.970 ms
+[Wed, 11 May 2016 16:26:25 GMT] "GET /images/Logohvit-tekst.png" 304 - - 6.253 ms
+[Wed, 11 May 2016 16:26:25 GMT] "GET /images/Search.png" 304 - - 6.383 ms
+{ pageNum: '2',
+  orderBy: '',
+  search: '',
+  pmin: '',
+  pmax: '',
+  vmin: '',
+  vmax: '' }
+14354
+[Wed, 11 May 2016 16:27:09 GMT] "GET /?pageNum=2&orderBy=&search=&pmin=&pmax=&vmin=&vmax=" 304 - - 178.751 ms
+Success
+Success
+[Wed, 11 May 2016 16:27:09 GMT] "GET /stylesheets/pure-min.css" 304 - - 48.683 ms
+[Wed, 11 May 2016 16:27:09 GMT] "GET /stylesheets/style.css" 304 - - 42.873 ms
+[Wed, 11 May 2016 16:27:09 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 41.637 ms
+[Wed, 11 May 2016 16:27:09 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 41.810 ms
+[Wed, 11 May 2016 16:27:09 GMT] "GET /javascripts/cookie.js" 304 - - 41.385 ms
+[Wed, 11 May 2016 16:27:09 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 40.845 ms
+Success
+[Wed, 11 May 2016 16:27:10 GMT] "GET /images/Logohvit-tekst.png" 304 - - 17.953 ms
+[Wed, 11 May 2016 16:27:10 GMT] "GET /javascripts/indexejs.js" 304 - - 17.201 ms
+Success
+[Wed, 11 May 2016 16:27:10 GMT] "GET /images/Search.png" 304 - - 6.476 ms
+Success
+Success
+Success
+Success
+Success
+Success
+{ pageNum: '1',
+  orderBy: 'PPK',
+  search: '',
+  pmin: '',
+  pmax: '',
+  vmin: '',
+  vmax: '' }
+14354
+[Wed, 11 May 2016 16:28:43 GMT] "GET /?pageNum=1&orderBy=PPK&search=&pmin=&pmax=&vmin=&vmax=" 200 11011 - 240.406 ms
+Success
+[Wed, 11 May 2016 16:28:44 GMT] "GET /stylesheets/pure-min.css" 304 - - 38.502 ms
+[Wed, 11 May 2016 16:28:44 GMT] "GET /stylesheets/style.css" 304 - - 36.169 ms
+[Wed, 11 May 2016 16:28:44 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 35.072 ms
+[Wed, 11 May 2016 16:28:44 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 35.145 ms
+[Wed, 11 May 2016 16:28:44 GMT] "GET /javascripts/cookie.js" 304 - - 34.386 ms
+Success
+[Wed, 11 May 2016 16:28:44 GMT] "GET /images/Logohvit-tekst.png" 304 - - 25.091 ms
+[Wed, 11 May 2016 16:28:44 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 28.873 ms
+[Wed, 11 May 2016 16:28:44 GMT] "GET /javascripts/indexejs.js" 304 - - 24.713 ms
+Success
+[Wed, 11 May 2016 16:28:44 GMT] "GET /images/Search.png" 304 - - 6.258 ms
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+{ pageNum: '1',
+  orderBy: 'PPK',
+  ASC: 'on',
+  search: '',
+  pmin: '',
+  pmax: '',
+  vmin: '',
+  vmax: '' }
+14354
+[Wed, 11 May 2016 16:28:46 GMT] "GET /?pageNum=1&orderBy=PPK&ASC=on&search=&pmin=&pmax=&vmin=&vmax=" 200 11049 - 178.235 ms
+Success
+[Wed, 11 May 2016 16:28:46 GMT] "GET /stylesheets/pure-min.css" 304 - - 44.547 ms
+[Wed, 11 May 2016 16:28:46 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 43.328 ms
+[Wed, 11 May 2016 16:28:46 GMT] "GET /stylesheets/style.css" 304 - - 41.911 ms
+[Wed, 11 May 2016 16:28:46 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 40.860 ms
+[Wed, 11 May 2016 16:28:46 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 41.002 ms
+[Wed, 11 May 2016 16:28:46 GMT] "GET /javascripts/cookie.js" 304 - - 40.123 ms
+Success
+[Wed, 11 May 2016 16:28:46 GMT] "GET /images/Logohvit-tekst.png" 304 - - 17.657 ms
+[Wed, 11 May 2016 16:28:46 GMT] "GET /javascripts/indexejs.js" 304 - - 12.917 ms
+Success
+[Wed, 11 May 2016 16:28:46 GMT] "GET /images/Search.png" 304 - - 6.421 ms
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+{}
+[Wed, 11 May 2016 16:28:57 GMT] "GET /linkClick?url=http%3A%2F%2Ffattigstudent.no%2F" 304 - - 96.679 ms
+[Wed, 11 May 2016 16:28:57 GMT] "GET /" 304 - - 168.368 ms
+[Wed, 11 May 2016 16:28:58 GMT] "GET /stylesheets/pure-min.css" 304 - - 45.568 ms
+[Wed, 11 May 2016 16:28:58 GMT] "GET /stylesheets/style.css" 304 - - 43.772 ms
+[Wed, 11 May 2016 16:28:58 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 42.681 ms
+[Wed, 11 May 2016 16:28:58 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 42.848 ms
+[Wed, 11 May 2016 16:28:58 GMT] "GET /javascripts/cookie.js" 304 - - 42.245 ms
+[Wed, 11 May 2016 16:28:58 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 41.008 ms
+[Wed, 11 May 2016 16:28:58 GMT] "GET /images/Logohvit-tekst.png" 304 - - 14.115 ms
+[Wed, 11 May 2016 16:28:58 GMT] "GET /javascripts/indexejs.js" 304 - - 12.724 ms
+[Wed, 11 May 2016 16:28:58 GMT] "GET /images/Search.png" 304 - - 6.576 ms
+[Wed, 11 May 2016 16:29:51 GMT] "GET /linkClick?url=http%3A%2F%2Fwww.vinmonopolet.no%2Fvareutvalg%2Fvaredetaljer%2Fsku-3039106" 200 34 - 122.194 ms
+{ pageNum: '1',
+  orderBy: 'PPK',
+  search: '',
+  pmin: '',
+  pmax: '',
+  vmin: '',
+  vmax: '',
+  sparklingwine: 'on' }
+1137
+[Wed, 11 May 2016 16:33:13 GMT] "GET /?pageNum=1&orderBy=PPK&search=&pmin=&pmax=&vmin=&vmax=&sparklingwine=on" 200 11109 - 264.088 ms
+[Wed, 11 May 2016 16:33:13 GMT] "GET /stylesheets/pure-min.css" 304 - - 7.088 ms
+Success
+[Wed, 11 May 2016 16:33:13 GMT] "GET /stylesheets/style.css" 304 - - 6.991 ms
+[Wed, 11 May 2016 16:33:13 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 14.804 ms
+[Wed, 11 May 2016 16:33:13 GMT] "GET /images/Logohvit-tekst.png" 304 - - 12.645 ms
+[Wed, 11 May 2016 16:33:13 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 29.578 ms
+[Wed, 11 May 2016 16:33:13 GMT] "GET /javascripts/cookie.js" 304 - - 28.286 ms
+[Wed, 11 May 2016 16:33:13 GMT] "GET /javascripts/indexejs.js" 304 - - 27.034 ms
+[Wed, 11 May 2016 16:33:13 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 25.834 ms
+Success
+Success
+Success
+[Wed, 11 May 2016 16:33:13 GMT] "GET /images/Search.png" 304 - - 6.484 ms
+Success
+Success
+Success
+Success
+Success
+Success
+[Wed, 11 May 2016 16:33:19 GMT] "GET /linkClick?url=http%3A%2F%2Fwww.vinmonopolet.no%2Fvareutvalg%2Fvaredetaljer%2Fsku-631201" 200 34 - 106.960 ms
+[Wed, 11 May 2016 16:33:33 GMT] "GET /linkClick?url=http%3A%2F%2Fwww.vinmonopolet.no%2Fvareutvalg%2Fvaredetaljer%2Fsku-631201" 304 - - 110.900 ms
+[Wed, 11 May 2016 16:34:09 GMT] "GET /linkClick?url=http%3A%2F%2Fwww.vinmonopolet.no%2Fvareutvalg%2Fvaredetaljer%2Fsku-4942501" 200 34 - 130.358 ms
+[Wed, 11 May 2016 16:34:16 GMT] "GET /linkClick?url=http%3A%2F%2Fwww.vinmonopolet.no%2Fvareutvalg%2Fvaredetaljer%2Fsku-631201" 304 - - 115.852 ms
+[Wed, 11 May 2016 16:34:27 GMT] "GET /linkClick?url=http%3A%2F%2Fwww.vinmonopolet.no%2Fvareutvalg%2Fvaredetaljer%2Fsku-2031901" 200 34 - 110.710 ms
+{ pageNum: '1',
+  orderBy: 'PPK',
+  search: '',
+  pmin: '',
+  pmax: '',
+  vmin: '',
+  vmax: '',
+  sparklingwine: 'on' }
+1137
+[Wed, 11 May 2016 16:35:05 GMT] "GET /?pageNum=1&orderBy=PPK&search=&pmin=&pmax=&vmin=&vmax=&sparklingwine=on" 304 - - 427.991 ms
+Success
+Success
+[Wed, 11 May 2016 16:35:05 GMT] "GET /stylesheets/pure-min.css" 304 - - 48.756 ms
+[Wed, 11 May 2016 16:35:05 GMT] "GET /stylesheets/style.css" 304 - - 47.353 ms
+[Wed, 11 May 2016 16:35:05 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 42.708 ms
+[Wed, 11 May 2016 16:35:05 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 41.754 ms
+[Wed, 11 May 2016 16:35:05 GMT] "GET /javascripts/cookie.js" 304 - - 41.652 ms
+[Wed, 11 May 2016 16:35:05 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 40.247 ms
+[Wed, 11 May 2016 16:35:05 GMT] "GET /images/Logohvit-tekst.png" 304 - - 14.321 ms
+[Wed, 11 May 2016 16:35:05 GMT] "GET /javascripts/indexejs.js" 304 - - 12.803 ms
+Success
+[Wed, 11 May 2016 16:35:05 GMT] "GET /images/Search.png" 304 - - 6.358 ms
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+{ pageNum: '1',
+  orderBy: 'PPK',
+  search: '',
+  pmin: '',
+  pmax: '',
+  vmin: '',
+  vmax: '',
+  sparklingwine: 'on' }
+1137
+[Wed, 11 May 2016 16:35:12 GMT] "GET /?pageNum=1&orderBy=PPK&search=&pmin=&pmax=&vmin=&vmax=&sparklingwine=on" 304 - - 651.253 ms
+Success
+[Wed, 11 May 2016 16:35:13 GMT] "GET /stylesheets/pure-min.css" 304 - - 38.838 ms
+[Wed, 11 May 2016 16:35:13 GMT] "GET /stylesheets/style.css" 304 - - 36.686 ms
+[Wed, 11 May 2016 16:35:13 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 35.790 ms
+[Wed, 11 May 2016 16:35:13 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 35.111 ms
+[Wed, 11 May 2016 16:35:13 GMT] "GET /javascripts/cookie.js" 304 - - 34.503 ms
+Success
+[Wed, 11 May 2016 16:35:13 GMT] "GET /images/Logohvit-tekst.png" 304 - - 30.685 ms
+[Wed, 11 May 2016 16:35:13 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 24.264 ms
+[Wed, 11 May 2016 16:35:13 GMT] "GET /javascripts/indexejs.js" 304 - - 19.322 ms
+Success
+[Wed, 11 May 2016 16:35:13 GMT] "GET /images/Search.png" 304 - - 6.362 ms
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+{ pageNum: '2',
+  orderBy: 'PPK',
+  search: '',
+  pmin: '',
+  pmax: '',
+  vmin: '',
+  vmax: '',
+  sparklingwine: 'on' }
+1137
+[Wed, 11 May 2016 16:35:35 GMT] "GET /?pageNum=2&orderBy=PPK&search=&pmin=&pmax=&vmin=&vmax=&sparklingwine=on" 200 11098 - 190.465 ms
+[Wed, 11 May 2016 16:35:35 GMT] "GET /stylesheets/pure-min.css" 304 - - 23.841 ms
+[Wed, 11 May 2016 16:35:35 GMT] "GET /stylesheets/style.css" 304 - - 20.760 ms
+[Wed, 11 May 2016 16:35:35 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 19.741 ms
+Success
+[Wed, 11 May 2016 16:35:35 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 33.756 ms
+[Wed, 11 May 2016 16:35:35 GMT] "GET /javascripts/cookie.js" 304 - - 31.679 ms
+[Wed, 11 May 2016 16:35:35 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 30.988 ms
+[Wed, 11 May 2016 16:35:35 GMT] "GET /javascripts/indexejs.js" 304 - - 26.686 ms
+[Wed, 11 May 2016 16:35:35 GMT] "GET /images/Logohvit-tekst.png" 304 - - 6.381 ms
+Success
+[Wed, 11 May 2016 16:35:35 GMT] "GET /images/Search.png" 304 - - 6.518 ms
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+{}
+[Wed, 11 May 2016 17:06:12 GMT] "GET /" 304 - - 265.039 ms
+[Wed, 11 May 2016 17:06:12 GMT] "GET /stylesheets/pure-min.css" 304 - - 38.038 ms
+[Wed, 11 May 2016 17:06:12 GMT] "GET /stylesheets/style.css" 304 - - 36.399 ms
+[Wed, 11 May 2016 17:06:12 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 34.660 ms
+[Wed, 11 May 2016 17:06:12 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 34.013 ms
+[Wed, 11 May 2016 17:06:12 GMT] "GET /javascripts/cookie.js" 304 - - 39.871 ms
+[Wed, 11 May 2016 17:06:12 GMT] "GET /javascripts/indexejs.js" 304 - - 21.797 ms
+[Wed, 11 May 2016 17:06:12 GMT] "GET /images/Logohvit-tekst.png" 304 - - 20.871 ms
+[Wed, 11 May 2016 17:06:12 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 19.336 ms
+[Wed, 11 May 2016 17:06:12 GMT] "GET /images/Search.png" 304 - - 6.470 ms
+[Wed, 11 May 2016 17:57:05 GMT] "GET /alpha/design/" 404 886 - 22.854 ms
+{}
+[Wed, 11 May 2016 18:02:05 GMT] "GET /" 200 11021 - 173.434 ms
+[Wed, 11 May 2016 18:02:05 GMT] "GET /stylesheets/pure-min.css" 200 21340 - 63.612 ms
+[Wed, 11 May 2016 18:02:05 GMT] "GET /stylesheets/style.css" 200 2677 - 76.745 ms
+[Wed, 11 May 2016 18:02:05 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 200 10901 - 76.476 ms
+[Wed, 11 May 2016 18:02:05 GMT] "GET /stylesheets/html5tooltips.css" 200 1512 - 77.232 ms
+[Wed, 11 May 2016 18:02:05 GMT] "GET /javascripts/HTMLToolTips.js" 200 21237 - 76.917 ms
+[Wed, 11 May 2016 18:02:05 GMT] "GET /javascripts/cookie.js" 200 4818 - 78.996 ms
+[Wed, 11 May 2016 18:02:05 GMT] "GET /javascripts/indexejs.js" 200 6813 - 24.674 ms
+[Wed, 11 May 2016 18:02:05 GMT] "GET /images/Logohvit-tekst.png" 200 61973 - 24.369 ms
+{}
+[Wed, 11 May 2016 18:08:37 GMT] "GET /" 200 11021 - 166.908 ms
+[Wed, 11 May 2016 18:08:37 GMT] "GET /stylesheets/pure-min.css" 200 21340 - 12.374 ms
+[Wed, 11 May 2016 18:08:37 GMT] "GET /stylesheets/style.css" 200 2677 - 72.614 ms
+[Wed, 11 May 2016 18:08:37 GMT] "GET /javascripts/cookie.js" 200 4818 - 72.735 ms
+[Wed, 11 May 2016 18:08:37 GMT] "GET /stylesheets/html5tooltips.css" 200 1512 - 73.571 ms
+[Wed, 11 May 2016 18:08:37 GMT] "GET /javascripts/HTMLToolTips.js" 200 21237 - 73.920 ms
+[Wed, 11 May 2016 18:08:37 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 200 10901 - 76.998 ms
+[Wed, 11 May 2016 18:08:37 GMT] "GET /javascripts/indexejs.js" 200 6813 - 54.574 ms
+[Wed, 11 May 2016 18:08:37 GMT] "GET /images/Logohvit-tekst.png" 200 61973 - 10.480 ms
+[Wed, 11 May 2016 18:08:38 GMT] "GET /images/Search.png" 200 389 - 10.190 ms
+{}
+[Wed, 11 May 2016 18:14:07 GMT] "GET /" 304 - - 179.032 ms
+[Wed, 11 May 2016 18:14:08 GMT] "GET /stylesheets/pure-min.css" 304 - - 19.880 ms
+[Wed, 11 May 2016 18:14:08 GMT] "GET /stylesheets/style.css" 304 - - 45.241 ms
+[Wed, 11 May 2016 18:14:08 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 43.407 ms
+[Wed, 11 May 2016 18:14:08 GMT] "GET /javascripts/cookie.js" 304 - - 42.741 ms
+[Wed, 11 May 2016 18:14:08 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 41.521 ms
+[Wed, 11 May 2016 18:14:08 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 40.256 ms
+[Wed, 11 May 2016 18:14:08 GMT] "GET /javascripts/indexejs.js" 304 - - 38.845 ms
+[Wed, 11 May 2016 18:14:08 GMT] "GET /images/Logohvit-tekst.png" 304 - - 6.277 ms
+[Wed, 11 May 2016 18:50:27 GMT] "GET /images/placeholder_logo.png" 404 886 - 17.224 ms
+[Wed, 11 May 2016 19:06:44 GMT] "HEAD /robots.txt" 404 886 - 17.023 ms
+{}
+[Wed, 11 May 2016 19:31:24 GMT] "GET /" 200 11079 - 194.600 ms
+[Wed, 11 May 2016 19:31:24 GMT] "GET /stylesheets/style.css" 200 2677 - 79.137 ms
+[Wed, 11 May 2016 19:31:24 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 200 10901 - 78.651 ms
+[Wed, 11 May 2016 19:31:24 GMT] "GET /javascripts/cookie.js" 200 4818 - 80.312 ms
+[Wed, 11 May 2016 19:31:24 GMT] "GET /javascripts/HTMLToolTips.js" 200 21237 - 82.578 ms
+[Wed, 11 May 2016 19:31:24 GMT] "GET /javascripts/indexejs.js" 200 6813 - 85.500 ms
+[Wed, 11 May 2016 19:31:24 GMT] "GET /stylesheets/pure-min.css" 200 21340 - 81.048 ms
+[Wed, 11 May 2016 19:31:24 GMT] "GET /stylesheets/html5tooltips.css" 200 1512 - 24.255 ms
+[Wed, 11 May 2016 19:31:24 GMT] "GET /images/Logohvit-tekst.png" 200 61973 - 24.786 ms
+[Wed, 11 May 2016 19:31:24 GMT] "GET /images/Search.png" 200 389 - 10.262 ms
+{}
+[Wed, 11 May 2016 19:32:06 GMT] "GET /" 200 11139 - 178.108 ms
+[Wed, 11 May 2016 19:32:06 GMT] "GET /stylesheets/pure-min.css" 304 - - 44.165 ms
+[Wed, 11 May 2016 19:32:06 GMT] "GET /stylesheets/style.css" 304 - - 43.777 ms
+[Wed, 11 May 2016 19:32:06 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 43.519 ms
+[Wed, 11 May 2016 19:32:06 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 42.507 ms
+[Wed, 11 May 2016 19:32:06 GMT] "GET /javascripts/cookie.js" 304 - - 41.714 ms
+[Wed, 11 May 2016 19:32:06 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 40.841 ms
+[Wed, 11 May 2016 19:32:06 GMT] "GET /javascripts/indexejs.js" 304 - - 6.676 ms
+[Wed, 11 May 2016 19:32:06 GMT] "GET /images/Search.png" 304 - - 14.323 ms
+[Wed, 11 May 2016 19:32:06 GMT] "GET /images/Logohvit-tekst.png" 304 - - 12.926 ms
+{ pageNum: '2',
+  orderBy: '',
+  search: '',
+  pmin: '',
+  pmax: '',
+  vmin: '',
+  vmax: '' }
+14354
+[Wed, 11 May 2016 19:32:10 GMT] "GET /?pageNum=2&orderBy=&search=&pmin=&pmax=&vmin=&vmax=" 200 11199 - 198.527 ms
+[Wed, 11 May 2016 19:32:11 GMT] "GET /stylesheets/pure-min.css" 304 - - 44.993 ms
+[Wed, 11 May 2016 19:32:11 GMT] "GET /stylesheets/style.css" 304 - - 44.437 ms
+[Wed, 11 May 2016 19:32:11 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 44.232 ms
+[Wed, 11 May 2016 19:32:11 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 43.706 ms
+[Wed, 11 May 2016 19:32:11 GMT] "GET /javascripts/cookie.js" 304 - - 42.960 ms
+[Wed, 11 May 2016 19:32:11 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 41.869 ms
+Success
+[Wed, 11 May 2016 19:32:11 GMT] "GET /images/Logohvit-tekst.png" 304 - - 17.371 ms
+[Wed, 11 May 2016 19:32:11 GMT] "GET /javascripts/indexejs.js" 304 - - 13.124 ms
+[Wed, 11 May 2016 19:32:11 GMT] "GET /images/Search.png" 304 - - 6.271 ms
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+{}
+[Wed, 11 May 2016 19:32:58 GMT] "GET /linkClick?url=http%3A%2F%2Ffattigstudent.no%2F" 200 34 - 118.490 ms
+[Wed, 11 May 2016 19:32:58 GMT] "GET /" 304 - - 197.724 ms
+[Wed, 11 May 2016 19:32:58 GMT] "GET /stylesheets/pure-min.css" 304 - - 43.844 ms
+[Wed, 11 May 2016 19:32:58 GMT] "GET /stylesheets/style.css" 304 - - 42.840 ms
+[Wed, 11 May 2016 19:32:58 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 41.610 ms
+[Wed, 11 May 2016 19:32:58 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 40.704 ms
+[Wed, 11 May 2016 19:32:58 GMT] "GET /javascripts/cookie.js" 304 - - 40.712 ms
+[Wed, 11 May 2016 19:32:58 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 40.066 ms
+[Wed, 11 May 2016 19:32:58 GMT] "GET /javascripts/indexejs.js" 304 - - 6.437 ms
+[Wed, 11 May 2016 19:32:58 GMT] "GET /images/Search.png" 304 - - 14.372 ms
+[Wed, 11 May 2016 19:32:58 GMT] "GET /images/Logohvit-tekst.png" 304 - - 13.015 ms
+{}
+[Wed, 11 May 2016 19:33:21 GMT] "GET /" 200 11139 - 103.766 ms
+[Wed, 11 May 2016 19:33:23 GMT] "GET /javascripts/HTMLToolTips.js" 200 21237 - 10.657 ms
+[Wed, 11 May 2016 19:33:23 GMT] "GET /javascripts/indexejs.js" 200 6813 - 9.960 ms
+[Wed, 11 May 2016 19:33:24 GMT] "GET /stylesheets/pure-min.css" 200 21340 - 10.291 ms
+[Wed, 11 May 2016 19:33:24 GMT] "GET /images/Logohvit-tekst.png" 200 61973 - 9.528 ms
+[Wed, 11 May 2016 19:33:24 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 200 10901 - 11.898 ms
+[Wed, 11 May 2016 19:33:24 GMT] "GET /stylesheets/style.css" 200 2677 - 11.664 ms
+[Wed, 11 May 2016 19:33:24 GMT] "GET /stylesheets/html5tooltips.css" 200 1512 - 9.488 ms
+[Wed, 11 May 2016 19:33:25 GMT] "GET /javascripts/cookie.js" 200 4818 - 9.824 ms
+[Wed, 11 May 2016 19:33:27 GMT] "GET /images/Search.png" 200 389 - 9.469 ms
+{ pageNum: '1',
+  orderBy: 'PPK',
+  roulette: 'on',
+  search: '',
+  birthLimit: 'on',
+  pmin: '',
+  pmax: '',
+  vmin: '',
+  vmax: '' }
+[Wed, 11 May 2016 19:33:39 GMT] "GET /?pageNum=1&orderBy=PPK&roulette=on&search=&birthLimit=on&pmin=&pmax=&vmin=&vmax=" 200 9109 - 179.939 ms
+Success
+[Wed, 11 May 2016 19:33:40 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 6.148 ms
+[Wed, 11 May 2016 19:33:40 GMT] "GET /javascripts/indexejs.js" 304 - - 5.915 ms
+[Wed, 11 May 2016 19:33:40 GMT] "GET /images/Logohvit-tekst.png" 304 - - 5.790 ms
+[Wed, 11 May 2016 19:33:40 GMT] "GET /stylesheets/pure-min.css" 304 - - 7.176 ms
+[Wed, 11 May 2016 19:33:40 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 5.888 ms
+[Wed, 11 May 2016 19:33:40 GMT] "GET /javascripts/cookie.js" 304 - - 5.898 ms
+[Wed, 11 May 2016 19:33:40 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 6.158 ms
+[Wed, 11 May 2016 19:33:40 GMT] "GET /stylesheets/style.css" 304 - - 6.263 ms
+[Wed, 11 May 2016 19:33:41 GMT] "GET /images/Search.png" 304 - - 5.898 ms
+[Wed, 11 May 2016 19:33:51 GMT] "GET /linkClick?url=http%3A%2F%2Fwww.vinmonopolet.no%2Fvareutvalg%2Fvaredetaljer%2Fsku-1312401" 200 34 - 114.394 ms
+{}
+[Wed, 11 May 2016 19:35:17 GMT] "GET /" 304 - - 169.182 ms
+[Wed, 11 May 2016 19:35:17 GMT] "GET /stylesheets/pure-min.css" 304 - - 5.871 ms
+[Wed, 11 May 2016 19:35:17 GMT] "GET /javascripts/cookie.js" 304 - - 6.093 ms
+[Wed, 11 May 2016 19:35:17 GMT] "GET /stylesheets/style.css" 304 - - 5.827 ms
+[Wed, 11 May 2016 19:35:17 GMT] "GET /javascripts/indexejs.js" 304 - - 5.819 ms
+[Wed, 11 May 2016 19:35:17 GMT] "GET /images/Logohvit-tekst.png" 304 - - 5.838 ms
+[Wed, 11 May 2016 19:35:17 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 5.953 ms
+[Wed, 11 May 2016 19:35:18 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 6.001 ms
+[Wed, 11 May 2016 19:35:18 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 5.837 ms
+[Wed, 11 May 2016 19:35:18 GMT] "GET /images/Search.png" 304 - - 5.790 ms
+{}
+[Wed, 11 May 2016 19:35:27 GMT] "GET /" 200 11139 - 103.739 ms
+[Wed, 11 May 2016 19:35:27 GMT] "GET /stylesheets/pure-min.css" 200 21340 - 11.646 ms
+[Wed, 11 May 2016 19:35:27 GMT] "GET /javascripts/indexejs.js" 200 6813 - 49.682 ms
+[Wed, 11 May 2016 19:35:28 GMT] "GET /images/Logohvit-tekst.png" 200 61973 - 53.358 ms
+[Wed, 11 May 2016 19:35:28 GMT] "GET /stylesheets/style.css" 200 2677 - 92.059 ms
+[Wed, 11 May 2016 19:35:28 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 200 10901 - 66.987 ms
+[Wed, 11 May 2016 19:35:28 GMT] "GET /stylesheets/html5tooltips.css" 200 1512 - 68.170 ms
+[Wed, 11 May 2016 19:35:28 GMT] "GET /javascripts/HTMLToolTips.js" 200 21237 - 67.455 ms
+[Wed, 11 May 2016 19:35:28 GMT] "GET /javascripts/cookie.js" 200 4818 - 69.518 ms
+[Wed, 11 May 2016 19:35:28 GMT] "GET /images/Search.png" 200 389 - 10.550 ms
+[Wed, 11 May 2016 19:36:01 GMT] "GET /cpanel" 200 150 - 17.810 ms
+{ pageNum: '1',
+  orderBy: 'PPK',
+  search: '',
+  pmin: '',
+  pmax: '100',
+  vmin: '',
+  vmax: '',
+  fruitwine: 'on' }
+31
+[Wed, 11 May 2016 19:36:42 GMT] "GET /?pageNum=1&orderBy=PPK&search=&pmin=&pmax=100&vmin=&vmax=&fruitwine=on" 200 11190 - 257.062 ms
+Success
+Success
+Success
+[Wed, 11 May 2016 19:36:43 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 5.864 ms
+Success
+Success
+[Wed, 11 May 2016 19:36:43 GMT] "GET /javascripts/indexejs.js" 304 - - 5.820 ms
+Success
+[Wed, 11 May 2016 19:36:43 GMT] "GET /images/Logohvit-tekst.png" 304 - - 5.901 ms
+Success
+Success
+[Wed, 11 May 2016 19:36:43 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 9.471 ms
+Success
+[Wed, 11 May 2016 19:36:43 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 5.890 ms
+Success
+[Wed, 11 May 2016 19:36:43 GMT] "GET /stylesheets/pure-min.css" 304 - - 5.973 ms
+[Wed, 11 May 2016 19:36:43 GMT] "GET /stylesheets/style.css" 304 - - 5.945 ms
+[Wed, 11 May 2016 19:36:43 GMT] "GET /javascripts/cookie.js" 304 - - 5.991 ms
+[Wed, 11 May 2016 19:36:43 GMT] "GET /images/Search.png" 304 - - 5.644 ms
+[Wed, 11 May 2016 21:38:27 GMT] "GET /robots.txt" 404 886 - 17.680 ms
+{}
+[Wed, 11 May 2016 21:38:36 GMT] "GET /" 200 11139 - 178.283 ms
+{}
+[Wed, 11 May 2016 22:24:11 GMT] "GET /" 200 11139 - 173.263 ms
+[Wed, 11 May 2016 22:24:12 GMT] "GET /stylesheets/style.css" 200 2677 - 87.315 ms
+[Wed, 11 May 2016 22:24:12 GMT] "GET /stylesheets/html5tooltips.css" 200 1512 - 85.046 ms
+[Wed, 11 May 2016 22:24:12 GMT] "GET /stylesheets/pure-min.css" 200 21340 - 85.771 ms
+[Wed, 11 May 2016 22:24:12 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 200 10901 - 87.057 ms
+[Wed, 11 May 2016 22:24:12 GMT] "GET /javascripts/HTMLToolTips.js" 200 21237 - 92.174 ms
+[Wed, 11 May 2016 22:24:12 GMT] "GET /javascripts/indexejs.js" 200 6813 - 95.558 ms
+[Wed, 11 May 2016 22:24:12 GMT] "GET /javascripts/cookie.js" 200 4818 - 96.113 ms
+[Wed, 11 May 2016 22:24:12 GMT] "GET /images/Logohvit-tekst.png" 200 61973 - 97.465 ms
+[Wed, 11 May 2016 22:24:16 GMT] "GET /images/Search.png" 200 389 - 20.946 ms
+[Wed, 11 May 2016 23:22:39 GMT] "GET http://testp1.piwo.pila.pl/testproxy.php" 404 886 - 18.759 ms
+{}
+[Thu, 12 May 2016 02:25:33 GMT] "GET /" 200 11139 - 170.873 ms
+{}
+[Thu, 12 May 2016 04:16:46 GMT] "GET https://m.baidu.com/" 200 11139 - 174.896 ms
+{}
+[Thu, 12 May 2016 05:04:07 GMT] "GET /" 200 11139 - 170.496 ms
+{}
+[Thu, 12 May 2016 05:50:26 GMT] "GET /" 200 11139 - 171.193 ms
+{}
+[Thu, 12 May 2016 09:07:03 GMT] "GET /" 200 11139 - 187.057 ms
+[Thu, 12 May 2016 09:30:35 GMT] "GET http://testp1.piwo.pila.pl/testproxy.php" 404 886 - 17.694 ms
+{}
+[Thu, 12 May 2016 09:50:55 GMT] "GET /" 304 - - 176.899 ms
+[Thu, 12 May 2016 09:50:56 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 8.594 ms
+[Thu, 12 May 2016 09:50:56 GMT] "GET /javascripts/indexejs.js" 304 - - 15.897 ms
+[Thu, 12 May 2016 09:50:56 GMT] "GET /stylesheets/pure-min.css" 304 - - 13.123 ms
+[Thu, 12 May 2016 09:50:56 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 29.214 ms
+[Thu, 12 May 2016 09:50:56 GMT] "GET /stylesheets/style.css" 304 - - 28.158 ms
+[Thu, 12 May 2016 09:50:56 GMT] "GET /javascripts/cookie.js" 304 - - 26.266 ms
+[Thu, 12 May 2016 09:50:56 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 25.895 ms
+[Thu, 12 May 2016 09:50:56 GMT] "GET /images/Logohvit-tekst.png" 304 - - 6.653 ms
+[Thu, 12 May 2016 09:50:56 GMT] "GET /images/Search.png" 304 - - 6.234 ms
+[Thu, 12 May 2016 09:50:57 GMT] "GET /visitationCounter" 200 31 - 105.515 ms
+{ pageNum: '1',
+  orderBy: 'PPK',
+  search: '',
+  birthLimit: 'on',
+  pmin: '',
+  pmax: '',
+  vmin: '',
+  vmax: '',
+  liquor: 'on',
+  vodka: 'on',
+  whiskey: 'on',
+  druebrennevin: 'on',
+  liqueur: 'on',
+  akevitt: 'on',
+  fruktbrennevin: 'on',
+  rom: 'on',
+  gin: 'on',
+  bitter: 'on',
+  genever: 'on',
+  lannet: 'on',
+  liqueuru: 'on',
+  bitteru: 'on',
+  lannetu: 'on' }
+195
+[Thu, 12 May 2016 09:51:12 GMT] "GET /?pageNum=1&orderBy=PPK&search=&birthLimit=on&pmin=&pmax=&vmin=&vmax=&liquor=on&vodka=on&whiskey=on&druebrennevin=on&liqueur=on&akevitt=on&fruktbrennevin=on&rom=on&gin=on&bitter=on&genever=on&lannet=on&liqueuru=on&bitteru=on&lannetu=on" 200 11242 - 249.452 ms
+Success
+[Thu, 12 May 2016 09:51:12 GMT] "GET /stylesheets/pure-min.css" 304 - - 38.573 ms
+[Thu, 12 May 2016 09:51:12 GMT] "GET /stylesheets/style.css" 304 - - 36.203 ms
+[Thu, 12 May 2016 09:51:13 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 35.168 ms
+[Thu, 12 May 2016 09:51:13 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 34.599 ms
+[Thu, 12 May 2016 09:51:13 GMT] "GET /javascripts/cookie.js" 304 - - 33.492 ms
+[Thu, 12 May 2016 09:51:13 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 7.072 ms
+Success
+[Thu, 12 May 2016 09:51:13 GMT] "GET /javascripts/indexejs.js" 304 - - 6.493 ms
+[Thu, 12 May 2016 09:51:13 GMT] "GET /images/Logohvit-tekst.png" 304 - - 6.473 ms
+[Thu, 12 May 2016 09:51:13 GMT] "GET /images/Search.png" 304 - - 6.388 ms
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+{}
+[Thu, 12 May 2016 09:57:08 GMT] "GET /" 200 11139 - 177.594 ms
+{}
+[Thu, 12 May 2016 10:07:24 GMT] "GET /" 200 11139 - 171.676 ms
+{}
+[Thu, 12 May 2016 10:29:53 GMT] "GET /" 200 11139 - 171.168 ms
+{ pageNum: '1',
+  orderBy: 'PPK',
+  roulette: 'on',
+  search: '',
+  pmin: '',
+  pmax: '100',
+  vmin: '',
+  vmax: '',
+  fruitwine: 'on' }
+[Thu, 12 May 2016 10:37:47 GMT] "GET /?pageNum=1&orderBy=PPK&roulette=on&search=&pmin=&pmax=100&vmin=&vmax=&fruitwine=on" 200 9127 - 186.357 ms
+Success
+[Thu, 12 May 2016 10:37:47 GMT] "GET /stylesheets/pure-min.css" 304 - - 6.321 ms
+[Thu, 12 May 2016 10:37:47 GMT] "GET /stylesheets/style.css" 304 - - 46.358 ms
+[Thu, 12 May 2016 10:37:47 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 45.613 ms
+[Thu, 12 May 2016 10:37:47 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 45.212 ms
+[Thu, 12 May 2016 10:37:47 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 44.617 ms
+[Thu, 12 May 2016 10:37:47 GMT] "GET /javascripts/indexejs.js" 304 - - 45.158 ms
+[Thu, 12 May 2016 10:37:47 GMT] "GET /images/Logohvit-tekst.png" 304 - - 45.342 ms
+[Thu, 12 May 2016 10:37:47 GMT] "GET /javascripts/cookie.js" 304 - - 44.872 ms
+[Thu, 12 May 2016 10:37:47 GMT] "GET /images/Search.png" 304 - - 5.978 ms
+[Thu, 12 May 2016 10:37:56 GMT] "GET /linkClick?url=http%3A%2F%2Fwww.vinmonopolet.no%2Fvareutvalg%2Fvaredetaljer%2Fsku-2828801" 200 34 - 106.920 ms
+{}
+[Thu, 12 May 2016 11:52:54 GMT] "GET /" 200 11139 - 203.478 ms
+[Thu, 12 May 2016 11:52:54 GMT] "GET /stylesheets/style.css" 200 2677 - 67.816 ms
+[Thu, 12 May 2016 11:52:54 GMT] "GET /stylesheets/html5tooltips.css" 200 1512 - 66.416 ms
+[Thu, 12 May 2016 11:52:54 GMT] "GET /stylesheets/pure-min.css" 200 21340 - 73.359 ms
+[Thu, 12 May 2016 11:52:54 GMT] "GET /javascripts/cookie.js" 200 4818 - 74.653 ms
+[Thu, 12 May 2016 11:52:54 GMT] "GET /javascripts/HTMLToolTips.js" 200 21237 - 75.857 ms
+[Thu, 12 May 2016 11:52:54 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 200 10901 - 75.928 ms
+[Thu, 12 May 2016 11:52:54 GMT] "GET /javascripts/indexejs.js" 200 6813 - 64.383 ms
+[Thu, 12 May 2016 11:52:54 GMT] "GET /images/Logohvit-tekst.png" 200 61973 - 26.174 ms
+[Thu, 12 May 2016 11:52:54 GMT] "GET /images/Search.png" 200 389 - 10.098 ms
+[Thu, 12 May 2016 11:52:55 GMT] "GET /visitationCounter" 304 - - 107.179 ms
+[Thu, 12 May 2016 11:57:03 GMT] "GET /alpha/design/" 404 886 - 18.107 ms
+{}
+[Thu, 12 May 2016 11:57:11 GMT] "GET /" 304 - - 180.770 ms
+[Thu, 12 May 2016 11:57:11 GMT] "GET /stylesheets/style.css" 304 - - 19.496 ms
+[Thu, 12 May 2016 11:57:11 GMT] "GET /stylesheets/pure-min.css" 304 - - 17.367 ms
+[Thu, 12 May 2016 11:57:11 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 15.507 ms
+[Thu, 12 May 2016 11:57:11 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 13.718 ms
+[Thu, 12 May 2016 11:57:11 GMT] "GET /javascripts/indexejs.js" 304 - - 22.331 ms
+[Thu, 12 May 2016 11:57:11 GMT] "GET /javascripts/cookie.js" 304 - - 20.391 ms
+[Thu, 12 May 2016 11:57:11 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 19.281 ms
+[Thu, 12 May 2016 11:57:11 GMT] "GET /images/Logohvit-tekst.png" 304 - - 6.605 ms
+[Thu, 12 May 2016 11:57:11 GMT] "GET /images/Search.png" 304 - - 6.479 ms
+{}
+[Thu, 12 May 2016 11:57:20 GMT] "GET /" 304 - - 114.722 ms
+[Thu, 12 May 2016 11:57:20 GMT] "GET /stylesheets/pure-min.css" 304 - - 38.943 ms
+[Thu, 12 May 2016 11:57:20 GMT] "GET /stylesheets/style.css" 304 - - 35.989 ms
+[Thu, 12 May 2016 11:57:20 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 34.811 ms
+[Thu, 12 May 2016 11:57:20 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 34.378 ms
+[Thu, 12 May 2016 11:57:20 GMT] "GET /javascripts/cookie.js" 304 - - 34.084 ms
+[Thu, 12 May 2016 11:57:20 GMT] "GET /images/Logohvit-tekst.png" 304 - - 21.780 ms
+[Thu, 12 May 2016 11:57:20 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 20.396 ms
+[Thu, 12 May 2016 11:57:20 GMT] "GET /javascripts/indexejs.js" 304 - - 19.187 ms
+[Thu, 12 May 2016 11:57:20 GMT] "GET /images/Search.png" 304 - - 8.995 ms
+{}
+[Thu, 12 May 2016 11:57:27 GMT] "GET /" 304 - - 103.507 ms
+[Thu, 12 May 2016 11:57:27 GMT] "GET /stylesheets/pure-min.css" 304 - - 46.100 ms
+[Thu, 12 May 2016 11:57:27 GMT] "GET /stylesheets/style.css" 304 - - 43.720 ms
+[Thu, 12 May 2016 11:57:27 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 42.542 ms
+[Thu, 12 May 2016 11:57:27 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 42.104 ms
+[Thu, 12 May 2016 11:57:27 GMT] "GET /javascripts/cookie.js" 304 - - 41.394 ms
+[Thu, 12 May 2016 11:57:27 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 40.405 ms
+[Thu, 12 May 2016 11:57:27 GMT] "GET /images/Logohvit-tekst.png" 304 - - 16.722 ms
+[Thu, 12 May 2016 11:57:27 GMT] "GET /javascripts/indexejs.js" 304 - - 15.423 ms
+[Thu, 12 May 2016 11:57:27 GMT] "GET /images/Search.png" 304 - - 6.315 ms
+{ pageNum: '1',
+  orderBy: 'Volum',
+  search: '',
+  pmin: '',
+  pmax: '',
+  vmin: '',
+  vmax: '' }
+14354
+[Thu, 12 May 2016 12:53:28 GMT] "GET /?pageNum=1&orderBy=Volum&search=&pmin=&pmax=&vmin=&vmax=" 200 11140 - 257.154 ms
+Success
+Success
+[Thu, 12 May 2016 12:53:28 GMT] "GET /stylesheets/style.css" 200 2677 - 27.912 ms
+[Thu, 12 May 2016 12:53:28 GMT] "GET /stylesheets/pure-min.css" 200 21340 - 31.522 ms
+Success
+[Thu, 12 May 2016 12:53:28 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 200 10901 - 72.883 ms
+[Thu, 12 May 2016 12:53:28 GMT] "GET /stylesheets/html5tooltips.css" 200 1512 - 72.114 ms
+[Thu, 12 May 2016 12:53:28 GMT] "GET /javascripts/indexejs.js" 200 6813 - 63.801 ms
+[Thu, 12 May 2016 12:53:28 GMT] "GET /javascripts/cookie.js" 200 4818 - 61.533 ms
+[Thu, 12 May 2016 12:53:28 GMT] "GET /javascripts/HTMLToolTips.js" 200 21237 - 62.744 ms
+[Thu, 12 May 2016 12:53:28 GMT] "GET /images/Logohvit-tekst.png" 200 61973 - 60.694 ms
+Success
+[Thu, 12 May 2016 12:53:28 GMT] "GET /images/Search.png" 200 389 - 19.195 ms
+Success
+Success
+Success
+Success
+Success
+Success
+[Thu, 12 May 2016 13:04:13 GMT] "GET /robots.txt" 404 886 - 16.805 ms
+[Thu, 12 May 2016 13:04:14 GMT] "GET /images/Logohvit-tekst.png" 200 61973 - 9.991 ms
+{ pageNum: '1',
+  orderBy: 'PPK',
+  search: '',
+  birthLimit: 'on',
+  pmin: '',
+  pmax: '',
+  vmin: '',
+  vmax: '',
+  liquor: 'on',
+  vodka: 'on',
+  whiskey: 'on',
+  druebrennevin: 'on',
+  liqueur: 'on',
+  akevitt: 'on',
+  fruktbrennevin: 'on',
+  rom: 'on',
+  gin: 'on',
+  bitter: 'on',
+  genever: 'on',
+  lannet: 'on',
+  liqueuru: 'on',
+  bitteru: 'on',
+  lannetu: 'on' }
+195
+[Thu, 12 May 2016 13:07:58 GMT] "GET /?pageNum=1&orderBy=PPK&search=&birthLimit=on&pmin=&pmax=&vmin=&vmax=&liquor=on&vodka=on&whiskey=on&druebrennevin=on&liqueur=on&akevitt=on&fruktbrennevin=on&rom=on&gin=on&bitter=on&genever=on&lannet=on&liqueuru=on&bitteru=on&lannetu=on" 304 - - 321.511 ms
+Success
+Success
+[Thu, 12 May 2016 13:07:58 GMT] "GET /stylesheets/style.css" 304 - - 6.652 ms
+[Thu, 12 May 2016 13:07:58 GMT] "GET /stylesheets/pure-min.css" 304 - - 31.096 ms
+[Thu, 12 May 2016 13:07:58 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 29.712 ms
+[Thu, 12 May 2016 13:07:58 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 27.428 ms
+[Thu, 12 May 2016 13:07:58 GMT] "GET /javascripts/indexejs.js" 304 - - 26.033 ms
+Success
+[Thu, 12 May 2016 13:07:58 GMT] "GET /images/Logohvit-tekst.png" 304 - - 25.990 ms
+[Thu, 12 May 2016 13:07:58 GMT] "GET /javascripts/cookie.js" 304 - - 24.020 ms
+[Thu, 12 May 2016 13:07:58 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 19.998 ms
+Success
+Success
+[Thu, 12 May 2016 13:07:58 GMT] "GET /images/Search.png" 304 - - 6.562 ms
+Success
+Success
+Success
+Success
+Success
+{}
+[Thu, 12 May 2016 13:19:07 GMT] "GET /" 304 - - 180.921 ms
+[Thu, 12 May 2016 13:19:07 GMT] "GET /stylesheets/pure-min.css" 304 - - 6.504 ms
+[Thu, 12 May 2016 13:19:07 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 22.600 ms
+[Thu, 12 May 2016 13:19:07 GMT] "GET /stylesheets/style.css" 304 - - 19.133 ms
+[Thu, 12 May 2016 13:19:07 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 22.318 ms
+[Thu, 12 May 2016 13:19:07 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 21.367 ms
+[Thu, 12 May 2016 13:19:07 GMT] "GET /javascripts/cookie.js" 304 - - 19.852 ms
+[Thu, 12 May 2016 13:19:07 GMT] "GET /javascripts/indexejs.js" 304 - - 6.665 ms
+[Thu, 12 May 2016 13:19:07 GMT] "GET /images/Logohvit-tekst.png" 304 - - 6.608 ms
+[Thu, 12 May 2016 13:19:08 GMT] "GET /images/Search.png" 304 - - 6.291 ms
+[Thu, 12 May 2016 13:19:45 GMT] "GET /linkClick?url=http%3A%2F%2Fwww.vinmonopolet.no%2Fvareutvalg%2Fvaredetaljer%2Fsku-4002801" 200 34 - 117.349 ms
+[Thu, 12 May 2016 13:20:12 GMT] "GET /linkClick?url=http%3A%2F%2Fwww.vinmonopolet.no%2Fvareutvalg%2Fvaredetaljer%2Fsku-5167206" 200 34 - 110.532 ms
+{ pageNum: '2',
+  orderBy: '',
+  search: '',
+  pmin: '',
+  pmax: '',
+  vmin: '',
+  vmax: '' }
+14354
+[Thu, 12 May 2016 13:20:31 GMT] "GET /?pageNum=2&orderBy=&search=&pmin=&pmax=&vmin=&vmax=" 200 11199 - 171.185 ms
+Success
+Success
+Success
+[Thu, 12 May 2016 13:20:31 GMT] "GET /stylesheets/pure-min.css" 304 - - 44.552 ms
+[Thu, 12 May 2016 13:20:31 GMT] "GET /stylesheets/style.css" 304 - - 43.479 ms
+[Thu, 12 May 2016 13:20:31 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 42.277 ms
+[Thu, 12 May 2016 13:20:31 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 41.269 ms
+[Thu, 12 May 2016 13:20:31 GMT] "GET /javascripts/cookie.js" 304 - - 40.395 ms
+[Thu, 12 May 2016 13:20:31 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 38.940 ms
+Success
+[Thu, 12 May 2016 13:20:31 GMT] "GET /javascripts/indexejs.js" 304 - - 14.148 ms
+[Thu, 12 May 2016 13:20:31 GMT] "GET /images/Logohvit-tekst.png" 304 - - 13.415 ms
+Success
+Success
+[Thu, 12 May 2016 13:20:31 GMT] "GET /images/Search.png" 304 - - 6.400 ms
+Success
+Success
+Success
+Success
+{ pageNum: '3',
+  orderBy: 'PPK',
+  search: '',
+  pmin: '',
+  pmax: '',
+  vmin: '',
+  vmax: '' }
+14354
+[Thu, 12 May 2016 13:20:36 GMT] "GET /?pageNum=3&orderBy=PPK&search=&pmin=&pmax=&vmin=&vmax=" 200 11150 - 180.716 ms
+Success
+Success
+Success
+Success
+Success
+[Thu, 12 May 2016 13:20:36 GMT] "GET /stylesheets/pure-min.css" 304 - - 34.282 ms
+[Thu, 12 May 2016 13:20:36 GMT] "GET /stylesheets/style.css" 304 - - 32.760 ms
+[Thu, 12 May 2016 13:20:36 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 30.942 ms
+[Thu, 12 May 2016 13:20:36 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 29.461 ms
+[Thu, 12 May 2016 13:20:36 GMT] "GET /javascripts/cookie.js" 304 - - 14.501 ms
+[Thu, 12 May 2016 13:20:36 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 13.471 ms
+Success
+[Thu, 12 May 2016 13:20:36 GMT] "GET /javascripts/indexejs.js" 304 - - 6.648 ms
+[Thu, 12 May 2016 13:20:36 GMT] "GET /images/Logohvit-tekst.png" 304 - - 6.917 ms
+Success
+[Thu, 12 May 2016 13:20:36 GMT] "GET /images/Search.png" 304 - - 6.169 ms
+Success
+Success
+Success
+{ pageNum: '4',
+  orderBy: 'PPK',
+  search: '',
+  pmin: '',
+  pmax: '',
+  vmin: '',
+  vmax: '' }
+14354
+[Thu, 12 May 2016 13:20:39 GMT] "GET /?pageNum=4&orderBy=PPK&search=&pmin=&pmax=&vmin=&vmax=" 200 11216 - 183.778 ms
+Success
+Success
+Success
+[Thu, 12 May 2016 13:20:39 GMT] "GET /stylesheets/pure-min.css" 304 - - 43.939 ms
+[Thu, 12 May 2016 13:20:39 GMT] "GET /stylesheets/style.css" 304 - - 42.911 ms
+[Thu, 12 May 2016 13:20:39 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 42.447 ms
+[Thu, 12 May 2016 13:20:39 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 41.496 ms
+[Thu, 12 May 2016 13:20:39 GMT] "GET /javascripts/cookie.js" 304 - - 40.044 ms
+[Thu, 12 May 2016 13:20:39 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 38.865 ms
+Success
+[Thu, 12 May 2016 13:20:39 GMT] "GET /javascripts/indexejs.js" 304 - - 6.913 ms
+[Thu, 12 May 2016 13:20:39 GMT] "GET /images/Logohvit-tekst.png" 304 - - 6.511 ms
+Success
+[Thu, 12 May 2016 13:20:39 GMT] "GET /images/Search.png" 304 - - 6.390 ms
+Success
+Success
+Success
+Success
+Success
+{ pageNum: '5',
+  orderBy: 'PPK',
+  search: '',
+  pmin: '',
+  pmax: '',
+  vmin: '',
+  vmax: '' }
+14354
+[Thu, 12 May 2016 13:20:42 GMT] "GET /?pageNum=5&orderBy=PPK&search=&pmin=&pmax=&vmin=&vmax=" 200 11141 - 178.237 ms
+Success
+Success
+[Thu, 12 May 2016 13:20:42 GMT] "GET /stylesheets/pure-min.css" 304 - - 44.995 ms
+[Thu, 12 May 2016 13:20:42 GMT] "GET /stylesheets/style.css" 304 - - 43.046 ms
+[Thu, 12 May 2016 13:20:42 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 41.829 ms
+[Thu, 12 May 2016 13:20:42 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 41.248 ms
+[Thu, 12 May 2016 13:20:42 GMT] "GET /javascripts/cookie.js" 304 - - 39.705 ms
+[Thu, 12 May 2016 13:20:42 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 38.826 ms
+Success
+[Thu, 12 May 2016 13:20:42 GMT] "GET /javascripts/indexejs.js" 304 - - 6.969 ms
+[Thu, 12 May 2016 13:20:42 GMT] "GET /images/Logohvit-tekst.png" 304 - - 6.626 ms
+Success
+Success
+[Thu, 12 May 2016 13:20:43 GMT] "GET /images/Search.png" 304 - - 6.446 ms
+Success
+Success
+Success
+Success
+Success
+[Thu, 12 May 2016 13:20:50 GMT] "GET /linkClick?url=http%3A%2F%2Fwww.vinmonopolet.no%2Fvareutvalg%2Fvaredetaljer%2Fsku-946906" 200 34 - 118.760 ms
+{ pageNum: '1',
+  orderBy: 'Varetype',
+  ASC: 'on',
+  search: '',
+  pmin: '',
+  pmax: '',
+  vmin: '',
+  vmax: '' }
+14354
+[Thu, 12 May 2016 13:21:05 GMT] "GET /?pageNum=1&orderBy=Varetype&ASC=on&search=&pmin=&pmax=&vmin=&vmax=" 200 11065 - 277.990 ms
+Success
+Success
+Success
+Success
+Success
+[Thu, 12 May 2016 13:21:05 GMT] "GET /stylesheets/pure-min.css" 304 - - 6.584 ms
+Success
+[Thu, 12 May 2016 13:21:05 GMT] "GET /stylesheets/style.css" 304 - - 45.247 ms
+[Thu, 12 May 2016 13:21:05 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 43.768 ms
+[Thu, 12 May 2016 13:21:05 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 42.727 ms
+[Thu, 12 May 2016 13:21:05 GMT] "GET /javascripts/cookie.js" 304 - - 42.072 ms
+[Thu, 12 May 2016 13:21:05 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 40.440 ms
+[Thu, 12 May 2016 13:21:05 GMT] "GET /javascripts/indexejs.js" 304 - - 45.286 ms
+Success
+[Thu, 12 May 2016 13:21:05 GMT] "GET /images/Logohvit-tekst.png" 304 - - 6.598 ms
+Success
+Success
+[Thu, 12 May 2016 13:21:05 GMT] "GET /images/Search.png" 304 - - 6.420 ms
+Success
+{ pageNum: '2',
+  orderBy: 'Varetype',
+  ASC: 'on',
+  search: '',
+  pmin: '',
+  pmax: '',
+  vmin: '',
+  vmax: '' }
+14354
+[Thu, 12 May 2016 13:21:10 GMT] "GET /?pageNum=2&orderBy=Varetype&ASC=on&search=&pmin=&pmax=&vmin=&vmax=" 200 11056 - 272.446 ms
+Success
+Success
+Success
+Success
+Success
+Success
+[Thu, 12 May 2016 13:21:11 GMT] "GET /stylesheets/pure-min.css" 304 - - 7.831 ms
+[Thu, 12 May 2016 13:21:11 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 36.953 ms
+[Thu, 12 May 2016 13:21:11 GMT] "GET /stylesheets/style.css" 304 - - 35.589 ms
+[Thu, 12 May 2016 13:21:11 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 34.636 ms
+[Thu, 12 May 2016 13:21:11 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 33.598 ms
+[Thu, 12 May 2016 13:21:11 GMT] "GET /javascripts/cookie.js" 304 - - 32.226 ms
+Success
+[Thu, 12 May 2016 13:21:11 GMT] "GET /javascripts/indexejs.js" 304 - - 6.591 ms
+[Thu, 12 May 2016 13:21:11 GMT] "GET /images/Logohvit-tekst.png" 304 - - 6.693 ms
+Success
+Success
+[Thu, 12 May 2016 13:21:11 GMT] "GET /images/Search.png" 304 - - 6.708 ms
+Success
+{ pageNum: '1',
+  orderBy: 'Alkohol',
+  search: '',
+  pmin: '',
+  pmax: '',
+  vmin: '',
+  vmax: '' }
+14354
+[Thu, 12 May 2016 13:21:15 GMT] "GET /?pageNum=1&orderBy=Alkohol&search=&pmin=&pmax=&vmin=&vmax=" 200 11079 - 182.615 ms
+Success
+Success
+Success
+[Thu, 12 May 2016 13:21:16 GMT] "GET /stylesheets/pure-min.css" 304 - - 44.792 ms
+[Thu, 12 May 2016 13:21:16 GMT] "GET /stylesheets/style.css" 304 - - 44.266 ms
+[Thu, 12 May 2016 13:21:16 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 42.757 ms
+[Thu, 12 May 2016 13:21:16 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 41.686 ms
+[Thu, 12 May 2016 13:21:16 GMT] "GET /javascripts/cookie.js" 304 - - 40.203 ms
+[Thu, 12 May 2016 13:21:16 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 39.119 ms
+Success
+[Thu, 12 May 2016 13:21:16 GMT] "GET /javascripts/indexejs.js" 304 - - 7.094 ms
+[Thu, 12 May 2016 13:21:16 GMT] "GET /images/Logohvit-tekst.png" 304 - - 6.419 ms
+Success
+Success
+[Thu, 12 May 2016 13:21:16 GMT] "GET /images/Search.png" 304 - - 6.627 ms
+Success
+Success
+Success
+Success
+{ pageNum: '1',
+  orderBy: 'PPK',
+  search: '',
+  birthLimit: 'on',
+  pmin: '',
+  pmax: '',
+  vmin: '',
+  vmax: '' }
+12245
+[Thu, 12 May 2016 13:21:26 GMT] "GET /?pageNum=1&orderBy=PPK&search=&birthLimit=on&pmin=&pmax=&vmin=&vmax=" 200 11129 - 186.685 ms
+Success
+Success
+Success
+Success
+[Thu, 12 May 2016 13:21:27 GMT] "GET /stylesheets/style.css" 304 - - 22.745 ms
+[Thu, 12 May 2016 13:21:27 GMT] "GET /stylesheets/pure-min.css" 304 - - 21.475 ms
+[Thu, 12 May 2016 13:21:27 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 20.349 ms
+Success
+[Thu, 12 May 2016 13:21:27 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 26.150 ms
+[Thu, 12 May 2016 13:21:27 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 25.235 ms
+[Thu, 12 May 2016 13:21:27 GMT] "GET /javascripts/cookie.js" 304 - - 23.676 ms
+[Thu, 12 May 2016 13:21:27 GMT] "GET /javascripts/indexejs.js" 304 - - 6.921 ms
+[Thu, 12 May 2016 13:21:27 GMT] "GET /images/Logohvit-tekst.png" 304 - - 6.880 ms
+Success
+Success
+[Thu, 12 May 2016 13:21:27 GMT] "GET /images/Search.png" 304 - - 6.419 ms
+Success
+Success
+Success
+{ pageNum: '1',
+  orderBy: 'PPK',
+  search: '',
+  birthLimit: 'on',
+  pmin: '',
+  pmax: '',
+  vmin: '',
+  vmax: '',
+  liquor: 'on',
+  vodka: 'on',
+  whiskey: 'on',
+  druebrennevin: 'on',
+  liqueur: 'on',
+  akevitt: 'on',
+  fruktbrennevin: 'on',
+  rom: 'on',
+  gin: 'on',
+  bitter: 'on',
+  genever: 'on',
+  lannet: 'on',
+  liqueuru: 'on',
+  bitteru: 'on',
+  lannetu: 'on' }
+195
+[Thu, 12 May 2016 13:21:39 GMT] "GET /?pageNum=1&orderBy=PPK&search=&birthLimit=on&pmin=&pmax=&vmin=&vmax=&liquor=on&vodka=on&whiskey=on&druebrennevin=on&liqueur=on&akevitt=on&fruktbrennevin=on&rom=on&gin=on&bitter=on&genever=on&lannet=on&liqueuru=on&bitteru=on&lannetu=on" 200 11242 - 226.269 ms
+Success
+Success
+Success
+[Thu, 12 May 2016 13:21:39 GMT] "GET /stylesheets/pure-min.css" 304 - - 45.241 ms
+[Thu, 12 May 2016 13:21:39 GMT] "GET /stylesheets/style.css" 304 - - 43.575 ms
+[Thu, 12 May 2016 13:21:39 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 42.888 ms
+[Thu, 12 May 2016 13:21:39 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 41.078 ms
+[Thu, 12 May 2016 13:21:39 GMT] "GET /javascripts/cookie.js" 304 - - 39.833 ms
+[Thu, 12 May 2016 13:21:39 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 39.097 ms
+Success
+[Thu, 12 May 2016 13:21:39 GMT] "GET /javascripts/indexejs.js" 304 - - 6.439 ms
+[Thu, 12 May 2016 13:21:39 GMT] "GET /images/Logohvit-tekst.png" 304 - - 6.595 ms
+Success
+Success
+[Thu, 12 May 2016 13:21:39 GMT] "GET /images/Search.png" 304 - - 6.546 ms
+Success
+Success
+Success
+Success
+{ pageNum: '2',
+  orderBy: 'PPK',
+  search: '',
+  birthLimit: 'on',
+  pmin: '',
+  pmax: '',
+  vmin: '',
+  vmax: '',
+  liquor: 'on',
+  vodka: 'on',
+  whiskey: 'on',
+  druebrennevin: 'on',
+  liqueur: 'on',
+  akevitt: 'on',
+  fruktbrennevin: 'on',
+  rom: 'on',
+  gin: 'on',
+  bitter: 'on',
+  genever: 'on',
+  lannet: 'on',
+  liqueuru: 'on',
+  bitteru: 'on',
+  lannetu: 'on' }
+195
+[Thu, 12 May 2016 13:21:46 GMT] "GET /?pageNum=2&orderBy=PPK&search=&birthLimit=on&pmin=&pmax=&vmin=&vmax=&liquor=on&vodka=on&whiskey=on&druebrennevin=on&liqueur=on&akevitt=on&fruktbrennevin=on&rom=on&gin=on&bitter=on&genever=on&lannet=on&liqueuru=on&bitteru=on&lannetu=on" 200 11313 - 237.850 ms
+Success
+Success
+Success
+Success
+Success
+[Thu, 12 May 2016 13:21:46 GMT] "GET /stylesheets/pure-min.css" 304 - - 29.166 ms
+[Thu, 12 May 2016 13:21:46 GMT] "GET /stylesheets/style.css" 304 - - 20.954 ms
+[Thu, 12 May 2016 13:21:46 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 19.566 ms
+[Thu, 12 May 2016 13:21:46 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 22.460 ms
+[Thu, 12 May 2016 13:21:46 GMT] "GET /javascripts/cookie.js" 304 - - 21.788 ms
+[Thu, 12 May 2016 13:21:46 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 20.258 ms
+Success
+[Thu, 12 May 2016 13:21:46 GMT] "GET /javascripts/indexejs.js" 304 - - 6.921 ms
+[Thu, 12 May 2016 13:21:46 GMT] "GET /images/Logohvit-tekst.png" 304 - - 6.543 ms
+Success
+Success
+[Thu, 12 May 2016 13:21:46 GMT] "GET /images/Search.png" 304 - - 11.953 ms
+Success
+Success
+{ pageNum: '3',
+  orderBy: 'PPK',
+  search: '',
+  birthLimit: 'on',
+  pmin: '',
+  pmax: '',
+  vmin: '',
+  vmax: '',
+  liquor: 'on',
+  vodka: 'on',
+  whiskey: 'on',
+  druebrennevin: 'on',
+  liqueur: 'on',
+  akevitt: 'on',
+  fruktbrennevin: 'on',
+  rom: 'on',
+  gin: 'on',
+  bitter: 'on',
+  genever: 'on',
+  lannet: 'on',
+  liqueuru: 'on',
+  bitteru: 'on',
+  lannetu: 'on' }
+195
+[Thu, 12 May 2016 13:21:48 GMT] "GET /?pageNum=3&orderBy=PPK&search=&birthLimit=on&pmin=&pmax=&vmin=&vmax=&liquor=on&vodka=on&whiskey=on&druebrennevin=on&liqueur=on&akevitt=on&fruktbrennevin=on&rom=on&gin=on&bitter=on&genever=on&lannet=on&liqueuru=on&bitteru=on&lannetu=on" 200 11336 - 243.466 ms
+Success
+Success
+[Thu, 12 May 2016 13:21:49 GMT] "GET /stylesheets/pure-min.css" 304 - - 15.150 ms
+[Thu, 12 May 2016 13:21:49 GMT] "GET /stylesheets/style.css" 304 - - 15.134 ms
+Success
+[Thu, 12 May 2016 13:21:49 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 33.687 ms
+[Thu, 12 May 2016 13:21:49 GMT] "GET /javascripts/cookie.js" 304 - - 32.715 ms
+[Thu, 12 May 2016 13:21:49 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 31.482 ms
+[Thu, 12 May 2016 13:21:49 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 29.805 ms
+[Thu, 12 May 2016 13:21:49 GMT] "GET /javascripts/indexejs.js" 304 - - 14.442 ms
+[Thu, 12 May 2016 13:21:49 GMT] "GET /images/Logohvit-tekst.png" 304 - - 13.196 ms
+Success
+Success
+[Thu, 12 May 2016 13:21:49 GMT] "GET /images/Search.png" 304 - - 6.439 ms
+Success
+Success
+Success
+Success
+Success
+[Thu, 12 May 2016 14:13:22 GMT] "GET /alpha/design/" 404 886 - 17.723 ms
+{}
+[Thu, 12 May 2016 14:13:22 GMT] "GET /" 200 11139 - 167.831 ms
+{}
+[Thu, 12 May 2016 14:13:22 GMT] "GET /" 200 11139 - 109.400 ms
+{}
+[Thu, 12 May 2016 14:14:11 GMT] "GET /" 200 11139 - 107.359 ms
+[Thu, 12 May 2016 14:14:11 GMT] "GET /stylesheets/pure-min.css" 200 21340 - 63.138 ms
+[Thu, 12 May 2016 14:14:11 GMT] "GET /stylesheets/style.css" 200 2677 - 77.214 ms
+[Thu, 12 May 2016 14:14:11 GMT] "GET /javascripts/HTMLToolTips.js" 200 21237 - 77.229 ms
+[Thu, 12 May 2016 14:14:11 GMT] "GET /javascripts/cookie.js" 200 4818 - 78.750 ms
+[Thu, 12 May 2016 14:14:11 GMT] "GET /stylesheets/html5tooltips.css" 200 1512 - 80.151 ms
+[Thu, 12 May 2016 14:14:11 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 200 10901 - 80.175 ms
+[Thu, 12 May 2016 14:14:12 GMT] "GET /javascripts/indexejs.js" 200 6813 - 30.752 ms
+[Thu, 12 May 2016 14:14:12 GMT] "GET /images/Logohvit-tekst.png" 200 61973 - 25.556 ms
+[Thu, 12 May 2016 14:14:12 GMT] "GET /visitationCounter" 200 31 - 100.476 ms
+[Thu, 12 May 2016 14:14:21 GMT] "GET /alpha/design/" 404 886 - 18.213 ms
+{}
+[Thu, 12 May 2016 14:14:31 GMT] "GET /" 304 - - 104.820 ms
+[Thu, 12 May 2016 14:14:31 GMT] "GET /stylesheets/pure-min.css" 304 - - 45.225 ms
+[Thu, 12 May 2016 14:14:31 GMT] "GET /stylesheets/style.css" 304 - - 42.752 ms
+[Thu, 12 May 2016 14:14:31 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 42.163 ms
+[Thu, 12 May 2016 14:14:31 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 41.172 ms
+[Thu, 12 May 2016 14:14:31 GMT] "GET /javascripts/cookie.js" 304 - - 39.845 ms
+[Thu, 12 May 2016 14:14:31 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 38.851 ms
+[Thu, 12 May 2016 14:14:31 GMT] "GET /javascripts/indexejs.js" 304 - - 6.253 ms
+[Thu, 12 May 2016 14:14:31 GMT] "GET /images/Logohvit-tekst.png" 304 - - 6.426 ms
+{}
+[Thu, 12 May 2016 14:14:37 GMT] "GET /" 304 - - 109.135 ms
+[Thu, 12 May 2016 14:14:37 GMT] "GET /stylesheets/pure-min.css" 304 - - 52.370 ms
+[Thu, 12 May 2016 14:14:37 GMT] "GET /stylesheets/style.css" 304 - - 42.898 ms
+[Thu, 12 May 2016 14:14:37 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 42.321 ms
+[Thu, 12 May 2016 14:14:37 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 41.069 ms
+[Thu, 12 May 2016 14:14:37 GMT] "GET /javascripts/cookie.js" 304 - - 39.771 ms
+[Thu, 12 May 2016 14:14:37 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 38.824 ms
+[Thu, 12 May 2016 14:14:37 GMT] "GET /javascripts/indexejs.js" 304 - - 7.191 ms
+[Thu, 12 May 2016 14:14:37 GMT] "GET /images/Logohvit-tekst.png" 304 - - 6.489 ms
+[Thu, 12 May 2016 14:16:17 GMT] "GET /images/placeholder_logo.png" 404 886 - 17.099 ms
+[Thu, 12 May 2016 14:16:35 GMT] "GET /images/placeholder_logo.png" 404 886 - 16.669 ms
+[Thu, 12 May 2016 14:17:41 GMT] "GET /images/placeholder_logo.png" 404 886 - 22.290 ms
+[Thu, 12 May 2016 14:20:58 GMT] "GET /images/placeholder_logo.png" 404 886 - 16.558 ms
+{}
+[Thu, 12 May 2016 14:21:12 GMT] "GET /" 200 11139 - 170.296 ms
+[Thu, 12 May 2016 14:21:12 GMT] "GET /stylesheets/pure-min.css" 200 21340 - 23.863 ms
+[Thu, 12 May 2016 14:21:12 GMT] "GET /javascripts/cookie.js" 304 - - 35.375 ms
+[Thu, 12 May 2016 14:21:12 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 34.737 ms
+[Thu, 12 May 2016 14:21:12 GMT] "GET /stylesheets/style.css" 200 2677 - 86.726 ms
+[Thu, 12 May 2016 14:21:12 GMT] "GET /stylesheets/html5tooltips.css" 200 1512 - 77.716 ms
+[Thu, 12 May 2016 14:21:12 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 200 10901 - 78.404 ms
+[Thu, 12 May 2016 14:21:12 GMT] "GET /javascripts/indexejs.js" 304 - - 33.987 ms
+[Thu, 12 May 2016 14:21:12 GMT] "GET /images/Logohvit-tekst.png" 200 61973 - 10.179 ms
+[Thu, 12 May 2016 14:21:12 GMT] "GET /images/Search.png" 200 389 - 11.725 ms
+[Thu, 12 May 2016 14:21:20 GMT] "GET /visitationCounter" 200 31 - 101.886 ms
+{ pageNum: '2',
+  orderBy: '',
+  search: '',
+  pmin: '',
+  pmax: '',
+  vmin: '',
+  vmax: '' }
+14354
+[Thu, 12 May 2016 14:21:23 GMT] "GET /?pageNum=2&orderBy=&search=&pmin=&pmax=&vmin=&vmax=" 200 11199 - 185.531 ms
+Success
+[Thu, 12 May 2016 14:21:23 GMT] "GET /stylesheets/pure-min.css" 304 - - 53.932 ms
+[Thu, 12 May 2016 14:21:23 GMT] "GET /stylesheets/style.css" 304 - - 52.044 ms
+[Thu, 12 May 2016 14:21:23 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 51.409 ms
+[Thu, 12 May 2016 14:21:23 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 50.712 ms
+[Thu, 12 May 2016 14:21:23 GMT] "GET /javascripts/cookie.js" 304 - - 40.717 ms
+[Thu, 12 May 2016 14:21:23 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 39.419 ms
+Success
+[Thu, 12 May 2016 14:21:23 GMT] "GET /images/Logohvit-tekst.png" 304 - - 18.090 ms
+[Thu, 12 May 2016 14:21:23 GMT] "GET /javascripts/indexejs.js" 304 - - 16.415 ms
+[Thu, 12 May 2016 14:21:23 GMT] "GET /images/Search.png" 304 - - 6.300 ms
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+[Thu, 12 May 2016 14:26:15 GMT] "GET /images/placeholder_logo.png" 404 886 - 16.681 ms
+[Thu, 12 May 2016 14:58:23 GMT] "GET /images/placeholder_logo.png" 404 886 - 16.751 ms
+[Thu, 12 May 2016 15:03:27 GMT] "GET http://37.48.94.6/proxychecker/check.cgi?action=getinfo" 404 886 - 18.260 ms
+{}
+[Thu, 12 May 2016 15:16:47 GMT] "GET /" 200 11139 - 171.722 ms
+[Thu, 12 May 2016 15:59:36 GMT] "GET /images/placeholder_logo.png" 404 886 - 16.888 ms
+[Thu, 12 May 2016 16:41:43 GMT] "HEAD /robots.txt" 404 886 - 16.950 ms
+{ pageNum: '1',
+  orderBy: 'Volum',
+  search: '',
+  pmin: '',
+  pmax: '',
+  vmin: '',
+  vmax: '' }
+14354
+[Thu, 12 May 2016 16:59:27 GMT] "GET /?pageNum=1&orderBy=Volum&search=&pmin=&pmax=&vmin=&vmax=" 200 11140 - 258.311 ms
+Success
+[Thu, 12 May 2016 16:59:27 GMT] "GET /stylesheets/pure-min.css" 304 - - 46.618 ms
+[Thu, 12 May 2016 16:59:27 GMT] "GET /stylesheets/style.css" 304 - - 44.347 ms
+[Thu, 12 May 2016 16:59:27 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 43.487 ms
+[Thu, 12 May 2016 16:59:27 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 42.473 ms
+[Thu, 12 May 2016 16:59:27 GMT] "GET /javascripts/cookie.js" 304 - - 41.245 ms
+[Thu, 12 May 2016 16:59:27 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 39.690 ms
+Success
+[Thu, 12 May 2016 16:59:27 GMT] "GET /images/Logohvit-tekst.png" 304 - - 18.087 ms
+[Thu, 12 May 2016 16:59:27 GMT] "GET /javascripts/indexejs.js" 304 - - 13.300 ms
+[Thu, 12 May 2016 16:59:27 GMT] "GET /images/Search.png" 304 - - 6.487 ms
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+{}
+[Thu, 12 May 2016 16:59:32 GMT] "GET /" 200 11139 - 109.677 ms
+[Thu, 12 May 2016 16:59:32 GMT] "GET /stylesheets/pure-min.css" 304 - - 44.701 ms
+[Thu, 12 May 2016 16:59:32 GMT] "GET /stylesheets/style.css" 304 - - 43.705 ms
+[Thu, 12 May 2016 16:59:32 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 42.956 ms
+[Thu, 12 May 2016 16:59:32 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 42.226 ms
+[Thu, 12 May 2016 16:59:32 GMT] "GET /javascripts/cookie.js" 304 - - 41.130 ms
+[Thu, 12 May 2016 16:59:32 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 39.853 ms
+[Thu, 12 May 2016 16:59:32 GMT] "GET /images/Logohvit-tekst.png" 304 - - 13.969 ms
+[Thu, 12 May 2016 16:59:32 GMT] "GET /javascripts/indexejs.js" 304 - - 12.699 ms
+[Thu, 12 May 2016 16:59:32 GMT] "GET /images/Search.png" 304 - - 6.372 ms
+{}
+[Thu, 12 May 2016 17:00:57 GMT] "GET /" 200 11139 - 170.293 ms
+[Thu, 12 May 2016 17:00:57 GMT] "GET /stylesheets/pure-min.css" 200 21340 - 20.213 ms
+[Thu, 12 May 2016 17:00:57 GMT] "GET /stylesheets/style.css" 200 2677 - 64.717 ms
+[Thu, 12 May 2016 17:00:57 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 200 10901 - 65.585 ms
+[Thu, 12 May 2016 17:00:57 GMT] "GET /stylesheets/html5tooltips.css" 200 1512 - 64.835 ms
+[Thu, 12 May 2016 17:00:58 GMT] "GET /javascripts/cookie.js" 200 4818 - 59.450 ms
+[Thu, 12 May 2016 17:00:58 GMT] "GET /javascripts/HTMLToolTips.js" 200 21237 - 59.854 ms
+[Thu, 12 May 2016 17:00:58 GMT] "GET /javascripts/indexejs.js" 200 6813 - 61.180 ms
+[Thu, 12 May 2016 17:00:58 GMT] "GET /images/Logohvit-tekst.png" 200 61973 - 10.048 ms
+[Thu, 12 May 2016 17:00:58 GMT] "GET /images/Search.png" 200 389 - 9.703 ms
+[Thu, 12 May 2016 17:01:15 GMT] "GET /visitationCounter" 200 31 - 107.205 ms
+{ pageNum: '1',
+  orderBy: 'PPK',
+  roulette: 'on',
+  search: '',
+  pmin: '',
+  pmax: '',
+  vmin: '',
+  vmax: '' }
+[Thu, 12 May 2016 17:01:35 GMT] "GET /?pageNum=1&orderBy=PPK&roulette=on&search=&pmin=&pmax=&vmin=&vmax=" 200 9123 - 188.997 ms
+[Thu, 12 May 2016 17:01:35 GMT] "GET /stylesheets/pure-min.css" 304 - - 32.302 ms
+[Thu, 12 May 2016 17:01:35 GMT] "GET /stylesheets/style.css" 304 - - 29.175 ms
+[Thu, 12 May 2016 17:01:35 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 27.558 ms
+[Thu, 12 May 2016 17:01:35 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 26.281 ms
+Success
+[Thu, 12 May 2016 17:01:35 GMT] "GET /javascripts/cookie.js" 304 - - 31.159 ms
+[Thu, 12 May 2016 17:01:35 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 29.719 ms
+[Thu, 12 May 2016 17:01:35 GMT] "GET /javascripts/indexejs.js" 304 - - 26.736 ms
+[Thu, 12 May 2016 17:01:35 GMT] "GET /images/Logohvit-tekst.png" 304 - - 25.600 ms
+[Thu, 12 May 2016 17:01:35 GMT] "GET /images/Search.png" 304 - - 6.204 ms
+{ pageNum: '1',
+  orderBy: 'PPK',
+  roulette: 'on',
+  search: '',
+  pmin: '',
+  pmax: '',
+  vmin: '',
+  vmax: '' }
+[Thu, 12 May 2016 17:02:26 GMT] "GET /?pageNum=1&orderBy=PPK&roulette=on&search=&pmin=&pmax=&vmin=&vmax=" 200 9116 - 148.032 ms
+[Thu, 12 May 2016 17:02:26 GMT] "GET /stylesheets/pure-min.css" 200 21340 - 26.892 ms
+Success
+[Thu, 12 May 2016 17:02:26 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 200 10901 - 77.162 ms
+[Thu, 12 May 2016 17:02:26 GMT] "GET /stylesheets/style.css" 200 2677 - 77.026 ms
+[Thu, 12 May 2016 17:02:26 GMT] "GET /stylesheets/html5tooltips.css" 200 1512 - 75.412 ms
+[Thu, 12 May 2016 17:02:26 GMT] "GET /javascripts/cookie.js" 200 4818 - 74.713 ms
+[Thu, 12 May 2016 17:02:26 GMT] "GET /javascripts/HTMLToolTips.js" 200 21237 - 76.099 ms
+[Thu, 12 May 2016 17:02:27 GMT] "GET /javascripts/indexejs.js" 200 6813 - 56.829 ms
+[Thu, 12 May 2016 17:02:27 GMT] "GET /images/Logohvit-tekst.png" 200 61973 - 9.864 ms
+[Thu, 12 May 2016 17:02:27 GMT] "GET /images/Search.png" 200 389 - 20.619 ms
+[Thu, 12 May 2016 17:02:28 GMT] "GET /linkClick?url=http%3A%2F%2Ffattigstudent.no%2F" - - - - ms
+{}
+[Thu, 12 May 2016 17:02:28 GMT] "GET /" 200 11139 - 171.837 ms
+[Thu, 12 May 2016 17:02:28 GMT] "GET /stylesheets/pure-min.css" 304 - - 36.935 ms
+[Thu, 12 May 2016 17:02:28 GMT] "GET /stylesheets/style.css" 304 - - 34.592 ms
+[Thu, 12 May 2016 17:02:29 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 34.264 ms
+[Thu, 12 May 2016 17:02:29 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 33.475 ms
+[Thu, 12 May 2016 17:02:29 GMT] "GET /javascripts/cookie.js" 304 - - 33.023 ms
+[Thu, 12 May 2016 17:02:29 GMT] "GET /javascripts/indexejs.js" 304 - - 6.401 ms
+[Thu, 12 May 2016 17:02:29 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 5.825 ms
+[Thu, 12 May 2016 17:02:29 GMT] "GET /images/Logohvit-tekst.png" 304 - - 6.500 ms
+[Thu, 12 May 2016 17:02:29 GMT] "GET /images/Search.png" 304 - - 6.207 ms
+{ pageNum: '1',
+  orderBy: 'PPK',
+  search: 'jack',
+  pmin: '',
+  pmax: '',
+  vmin: '',
+  vmax: '' }
+13
+[Thu, 12 May 2016 17:03:09 GMT] "GET /?pageNum=1&orderBy=PPK&search=jack&pmin=&pmax=&vmin=&vmax=" 200 11169 - 236.426 ms
+Success
+Success
+[Thu, 12 May 2016 17:03:09 GMT] "GET /stylesheets/pure-min.css" 304 - - 21.405 ms
+[Thu, 12 May 2016 17:03:09 GMT] "GET /stylesheets/style.css" 304 - - 46.820 ms
+[Thu, 12 May 2016 17:03:09 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 45.075 ms
+[Thu, 12 May 2016 17:03:09 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 44.107 ms
+[Thu, 12 May 2016 17:03:09 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 43.018 ms
+[Thu, 12 May 2016 17:03:09 GMT] "GET /javascripts/cookie.js" 304 - - 41.030 ms
+[Thu, 12 May 2016 17:03:09 GMT] "GET /javascripts/indexejs.js" 304 - - 39.101 ms
+Success
+[Thu, 12 May 2016 17:03:09 GMT] "GET /images/Logohvit-tekst.png" 304 - - 6.471 ms
+[Thu, 12 May 2016 17:03:09 GMT] "GET /images/Search.png" 304 - - 7.186 ms
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+{ pageNum: '2',
+  orderBy: '',
+  search: '',
+  pmin: 'dwwdwd33434',
+  pmax: '',
+  vmin: '234',
+  vmax: '',
+  wine: 'on',
+  redwine: 'on',
+  whitewine: 'on',
+  rosewine: 'on',
+  sparklingwine: 'on',
+  fruitwine: 'on',
+  wannet: 'on',
+  liquor: 'on',
+  vodka: 'on',
+  whiskey: 'on',
+  druebrennevin: 'on',
+  liqueur: 'on',
+  akevitt: 'on',
+  fruktbrennevin: 'on',
+  rom: 'on',
+  gin: 'on',
+  bitter: 'on',
+  genever: 'on',
+  lannet: 'on',
+  liqueuru: 'on',
+  bitteru: 'on',
+  lannetu: 'on' }
+0
+[Thu, 12 May 2016 17:03:19 GMT] "GET /?pageNum=2&orderBy=&search=&pmin=dwwdwd33434&pmax=&vmin=234&vmax=&wine=on&redwine=on&whitewine=on&rosewine=on&sparklingwine=on&fruitwine=on&wannet=on&liquor=on&vodka=on&whiskey=on&druebrennevin=on&liqueur=on&akevitt=on&fruktbrennevin=on&rom=on&gin=on&bitter=on&genever=on&lannet=on&liqueuru=on&bitteru=on&lannetu=on" 200 8595 - 232.638 ms
+[Thu, 12 May 2016 17:03:19 GMT] "GET /stylesheets/pure-min.css" 304 - - 28.112 ms
+[Thu, 12 May 2016 17:03:19 GMT] "GET /stylesheets/style.css" 304 - - 26.349 ms
+[Thu, 12 May 2016 17:03:19 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 26.127 ms
+[Thu, 12 May 2016 17:03:19 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 26.254 ms
+[Thu, 12 May 2016 17:03:19 GMT] "GET /javascripts/cookie.js" 304 - - 5.844 ms
+[Thu, 12 May 2016 17:03:19 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 12.720 ms
+[Thu, 12 May 2016 17:03:19 GMT] "GET /javascripts/indexejs.js" 304 - - 12.491 ms
+[Thu, 12 May 2016 17:03:19 GMT] "GET /images/Logohvit-tekst.png" 304 - - 5.903 ms
+[Thu, 12 May 2016 17:03:19 GMT] "GET /images/Search.png" 304 - - 5.845 ms
+{ pageNum: '1',
+  orderBy: 'PPK',
+  search: 'jack',
+  pmin: '',
+  pmax: '',
+  vmin: '',
+  vmax: '' }
+13
+[Thu, 12 May 2016 17:03:23 GMT] "GET /?pageNum=1&orderBy=PPK&search=jack&pmin=&pmax=&vmin=&vmax=" 304 - - 179.013 ms
+Success
+[Thu, 12 May 2016 17:03:24 GMT] "GET /stylesheets/pure-min.css" 304 - - 45.852 ms
+[Thu, 12 May 2016 17:03:24 GMT] "GET /stylesheets/style.css" 304 - - 45.048 ms
+[Thu, 12 May 2016 17:03:24 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 44.230 ms
+[Thu, 12 May 2016 17:03:24 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 43.348 ms
+[Thu, 12 May 2016 17:03:24 GMT] "GET /javascripts/cookie.js" 304 - - 41.918 ms
+[Thu, 12 May 2016 17:03:24 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 40.232 ms
+Success
+[Thu, 12 May 2016 17:03:24 GMT] "GET /images/Logohvit-tekst.png" 304 - - 17.609 ms
+[Thu, 12 May 2016 17:03:24 GMT] "GET /javascripts/indexejs.js" 304 - - 12.756 ms
+[Thu, 12 May 2016 17:03:24 GMT] "GET /images/Search.png" 304 - - 6.316 ms
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+[Thu, 12 May 2016 17:04:48 GMT] "GET /images/placeholder_logo.png" 404 886 - 17.513 ms
+[Thu, 12 May 2016 17:04:48 GMT] "GET /images/placeholder_logo.png" 404 886 - 16.935 ms
+{ pageNum: '1',
+  orderBy: 'PPK',
+  search: 'jack',
+  pmin: '',
+  pmax: '',
+  vmin: '',
+  vmax: '' }
+13
+[Thu, 12 May 2016 17:06:27 GMT] "GET /?pageNum=1&orderBy=PPK&search=jack&pmin=&pmax=&vmin=&vmax=" 304 - - 243.464 ms
+Success
+[Thu, 12 May 2016 17:06:27 GMT] "GET /stylesheets/pure-min.css" 304 - - 46.601 ms
+[Thu, 12 May 2016 17:06:27 GMT] "GET /stylesheets/style.css" 304 - - 45.209 ms
+[Thu, 12 May 2016 17:06:27 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 43.529 ms
+[Thu, 12 May 2016 17:06:27 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 42.639 ms
+[Thu, 12 May 2016 17:06:27 GMT] "GET /javascripts/cookie.js" 304 - - 41.184 ms
+[Thu, 12 May 2016 17:06:27 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 39.747 ms
+Success
+[Thu, 12 May 2016 17:06:27 GMT] "GET /javascripts/indexejs.js" 304 - - 14.333 ms
+[Thu, 12 May 2016 17:06:27 GMT] "GET /images/Logohvit-tekst.png" 304 - - 12.866 ms
+[Thu, 12 May 2016 17:06:27 GMT] "GET /images/Search.png" 304 - - 6.355 ms
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+{}
+[Thu, 12 May 2016 17:06:29 GMT] "GET /" 200 11139 - 107.668 ms
+[Thu, 12 May 2016 17:06:29 GMT] "GET /stylesheets/pure-min.css" 304 - - 52.636 ms
+[Thu, 12 May 2016 17:06:29 GMT] "GET /stylesheets/style.css" 304 - - 51.651 ms
+[Thu, 12 May 2016 17:06:29 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 50.914 ms
+[Thu, 12 May 2016 17:06:29 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 50.187 ms
+[Thu, 12 May 2016 17:06:29 GMT] "GET /javascripts/cookie.js" 304 - - 48.838 ms
+[Thu, 12 May 2016 17:06:29 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 40.153 ms
+[Thu, 12 May 2016 17:06:29 GMT] "GET /images/Logohvit-tekst.png" 304 - - 14.150 ms
+[Thu, 12 May 2016 17:06:29 GMT] "GET /javascripts/indexejs.js" 304 - - 12.775 ms
+[Thu, 12 May 2016 17:06:29 GMT] "GET /images/Search.png" 304 - - 6.297 ms
+{}
+[Thu, 12 May 2016 17:06:32 GMT] "GET /" 304 - - 108.587 ms
+[Thu, 12 May 2016 17:06:32 GMT] "GET /stylesheets/pure-min.css" 304 - - 7.291 ms
+[Thu, 12 May 2016 17:06:32 GMT] "GET /stylesheets/style.css" 304 - - 44.648 ms
+[Thu, 12 May 2016 17:06:32 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 43.420 ms
+[Thu, 12 May 2016 17:06:32 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 42.100 ms
+[Thu, 12 May 2016 17:06:32 GMT] "GET /javascripts/cookie.js" 304 - - 41.066 ms
+[Thu, 12 May 2016 17:06:32 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 40.448 ms
+[Thu, 12 May 2016 17:06:32 GMT] "GET /javascripts/indexejs.js" 304 - - 39.436 ms
+[Thu, 12 May 2016 17:06:32 GMT] "GET /images/Logohvit-tekst.png" 304 - - 6.530 ms
+[Thu, 12 May 2016 17:06:32 GMT] "GET /images/Search.png" 304 - - 6.294 ms
+{}
+[Thu, 12 May 2016 17:06:59 GMT] "GET /linkClick?url=http%3A%2F%2Ffattigstudent.no%2F" 200 34 - 124.365 ms
+[Thu, 12 May 2016 17:06:59 GMT] "GET /" 304 - - 166.146 ms
+[Thu, 12 May 2016 17:06:59 GMT] "GET /stylesheets/pure-min.css" 304 - - 31.266 ms
+[Thu, 12 May 2016 17:06:59 GMT] "GET /stylesheets/style.css" 304 - - 27.952 ms
+[Thu, 12 May 2016 17:06:59 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 26.710 ms
+[Thu, 12 May 2016 17:06:59 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 25.827 ms
+[Thu, 12 May 2016 17:06:59 GMT] "GET /javascripts/cookie.js" 304 - - 29.751 ms
+[Thu, 12 May 2016 17:06:59 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 27.896 ms
+[Thu, 12 May 2016 17:06:59 GMT] "GET /javascripts/indexejs.js" 304 - - 27.058 ms
+[Thu, 12 May 2016 17:06:59 GMT] "GET /images/Logohvit-tekst.png" 304 - - 26.105 ms
+[Thu, 12 May 2016 17:06:59 GMT] "GET /images/Search.png" 304 - - 6.313 ms
+{ pageNum: '1',
+  orderBy: 'PPK',
+  search: 'jack',
+  birthLimit: 'on',
+  pmin: '',
+  pmax: '',
+  vmin: '',
+  vmax: '' }
+5
+[Thu, 12 May 2016 17:07:13 GMT] "GET /?pageNum=1&orderBy=PPK&search=jack&birthLimit=on&pmin=&pmax=&vmin=&vmax=" 200 10128 - 328.077 ms
+[Thu, 12 May 2016 17:07:13 GMT] "GET /stylesheets/pure-min.css" 304 - - 45.201 ms
+[Thu, 12 May 2016 17:07:13 GMT] "GET /stylesheets/style.css" 304 - - 43.688 ms
+[Thu, 12 May 2016 17:07:13 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 42.962 ms
+[Thu, 12 May 2016 17:07:13 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 41.556 ms
+[Thu, 12 May 2016 17:07:13 GMT] "GET /javascripts/cookie.js" 304 - - 40.675 ms
+[Thu, 12 May 2016 17:07:13 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 39.470 ms
+Success
+[Thu, 12 May 2016 17:07:13 GMT] "GET /images/Logohvit-tekst.png" 304 - - 18.029 ms
+[Thu, 12 May 2016 17:07:13 GMT] "GET /javascripts/indexejs.js" 304 - - 16.669 ms
+[Thu, 12 May 2016 17:07:13 GMT] "GET /images/Search.png" 304 - - 6.384 ms
+Success
+Success
+Success
+Success
+{ pageNum: '1',
+  orderBy: 'PPK',
+  search: 'ejrh',
+  pmin: '',
+  pmax: '',
+  vmin: '',
+  vmax: '' }
+0
+[Thu, 12 May 2016 17:07:21 GMT] "GET /?pageNum=1&orderBy=PPK&search=ejrh&pmin=&pmax=&vmin=&vmax=" 200 8595 - 198.222 ms
+[Thu, 12 May 2016 17:07:21 GMT] "GET /stylesheets/pure-min.css" 304 - - 30.781 ms
+[Thu, 12 May 2016 17:07:21 GMT] "GET /stylesheets/style.css" 304 - - 27.729 ms
+[Thu, 12 May 2016 17:07:21 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 26.701 ms
+[Thu, 12 May 2016 17:07:21 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 26.257 ms
+[Thu, 12 May 2016 17:07:21 GMT] "GET /javascripts/cookie.js" 304 - - 22.151 ms
+[Thu, 12 May 2016 17:07:21 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 20.908 ms
+[Thu, 12 May 2016 17:07:21 GMT] "GET /javascripts/indexejs.js" 304 - - 19.672 ms
+[Thu, 12 May 2016 17:07:21 GMT] "GET /images/Logohvit-tekst.png" 304 - - 6.927 ms
+[Thu, 12 May 2016 17:07:21 GMT] "GET /images/Search.png" 304 - - 6.665 ms
+{ pageNum: '2',
+  orderBy: '',
+  search: 'jack',
+  birthLimit: 'on',
+  pmin: '',
+  pmax: '',
+  vmin: '',
+  vmax: '' }
+5
+[Thu, 12 May 2016 17:07:23 GMT] "GET /?pageNum=2&orderBy=&search=jack&birthLimit=on&pmin=&pmax=&vmin=&vmax=" 200 8595 - 161.966 ms
+[Thu, 12 May 2016 17:07:23 GMT] "GET /stylesheets/pure-min.css" 304 - - 45.077 ms
+[Thu, 12 May 2016 17:07:23 GMT] "GET /stylesheets/style.css" 304 - - 43.470 ms
+[Thu, 12 May 2016 17:07:23 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 42.817 ms
+[Thu, 12 May 2016 17:07:23 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 42.224 ms
+[Thu, 12 May 2016 17:07:23 GMT] "GET /javascripts/cookie.js" 304 - - 40.880 ms
+[Thu, 12 May 2016 17:07:23 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 39.707 ms
+[Thu, 12 May 2016 17:07:23 GMT] "GET /images/Logohvit-tekst.png" 304 - - 13.889 ms
+[Thu, 12 May 2016 17:07:23 GMT] "GET /javascripts/indexejs.js" 304 - - 12.789 ms
+[Thu, 12 May 2016 17:07:23 GMT] "GET /images/Search.png" 304 - - 6.599 ms
+{ pageNum: '1',
+  orderBy: 'PPK',
+  search: 'jack',
+  birthLimit: 'on',
+  pmin: '',
+  pmax: '',
+  vmin: '',
+  vmax: '' }
+5
+[Thu, 12 May 2016 17:07:26 GMT] "GET /?pageNum=1&orderBy=PPK&search=jack&birthLimit=on&pmin=&pmax=&vmin=&vmax=" 304 - - 174.798 ms
+[Thu, 12 May 2016 17:07:26 GMT] "GET /stylesheets/pure-min.css" 304 - - 7.173 ms
+Success
+[Thu, 12 May 2016 17:07:26 GMT] "GET /stylesheets/style.css" 304 - - 45.477 ms
+[Thu, 12 May 2016 17:07:26 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 44.333 ms
+[Thu, 12 May 2016 17:07:26 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 43.683 ms
+[Thu, 12 May 2016 17:07:26 GMT] "GET /javascripts/cookie.js" 304 - - 42.052 ms
+[Thu, 12 May 2016 17:07:26 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 40.655 ms
+[Thu, 12 May 2016 17:07:26 GMT] "GET /javascripts/indexejs.js" 304 - - 39.408 ms
+Success
+[Thu, 12 May 2016 17:07:26 GMT] "GET /images/Logohvit-tekst.png" 304 - - 9.845 ms
+[Thu, 12 May 2016 17:07:26 GMT] "GET /images/Search.png" 304 - - 6.748 ms
+Success
+Success
+Success
+{}
+[Thu, 12 May 2016 17:07:31 GMT] "GET /" 304 - - 105.772 ms
+[Thu, 12 May 2016 17:07:31 GMT] "GET /stylesheets/pure-min.css" 304 - - 45.867 ms
+[Thu, 12 May 2016 17:07:31 GMT] "GET /stylesheets/style.css" 304 - - 44.696 ms
+[Thu, 12 May 2016 17:07:31 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 43.214 ms
+[Thu, 12 May 2016 17:07:31 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 41.967 ms
+[Thu, 12 May 2016 17:07:31 GMT] "GET /javascripts/cookie.js" 304 - - 40.979 ms
+[Thu, 12 May 2016 17:07:31 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 41.067 ms
+[Thu, 12 May 2016 17:07:31 GMT] "GET /images/Logohvit-tekst.png" 304 - - 14.503 ms
+[Thu, 12 May 2016 17:07:31 GMT] "GET /javascripts/indexejs.js" 304 - - 12.816 ms
+[Thu, 12 May 2016 17:07:32 GMT] "GET /images/Search.png" 304 - - 6.364 ms
+{ pageNum: '2',
+  orderBy: '',
+  search: '',
+  pmin: '',
+  pmax: '',
+  vmin: '',
+  vmax: '' }
+14354
+[Thu, 12 May 2016 17:07:34 GMT] "GET /?pageNum=2&orderBy=&search=&pmin=&pmax=&vmin=&vmax=" 200 11199 - 217.951 ms
+[Thu, 12 May 2016 17:07:34 GMT] "GET /stylesheets/pure-min.css" 304 - - 53.279 ms
+[Thu, 12 May 2016 17:07:34 GMT] "GET /stylesheets/style.css" 304 - - 51.854 ms
+[Thu, 12 May 2016 17:07:34 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 51.340 ms
+[Thu, 12 May 2016 17:07:34 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 50.358 ms
+[Thu, 12 May 2016 17:07:34 GMT] "GET /javascripts/cookie.js" 304 - - 48.958 ms
+[Thu, 12 May 2016 17:07:34 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 39.980 ms
+Success
+[Thu, 12 May 2016 17:07:34 GMT] "GET /images/Logohvit-tekst.png" 304 - - 17.692 ms
+[Thu, 12 May 2016 17:07:34 GMT] "GET /javascripts/indexejs.js" 304 - - 12.733 ms
+[Thu, 12 May 2016 17:07:34 GMT] "GET /images/Search.png" 304 - - 6.482 ms
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+{ pageNum: '3',
+  orderBy: 'PPK',
+  search: '',
+  pmin: '',
+  pmax: '',
+  vmin: '',
+  vmax: '' }
+14354
+[Thu, 12 May 2016 17:07:40 GMT] "GET /?pageNum=3&orderBy=PPK&search=&pmin=&pmax=&vmin=&vmax=" 200 11150 - 216.161 ms
+[Thu, 12 May 2016 17:07:40 GMT] "GET /stylesheets/pure-min.css" 304 - - 45.096 ms
+[Thu, 12 May 2016 17:07:40 GMT] "GET /stylesheets/style.css" 304 - - 43.651 ms
+[Thu, 12 May 2016 17:07:40 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 43.028 ms
+[Thu, 12 May 2016 17:07:40 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 41.948 ms
+[Thu, 12 May 2016 17:07:40 GMT] "GET /javascripts/cookie.js" 304 - - 40.694 ms
+[Thu, 12 May 2016 17:07:40 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 39.503 ms
+[Thu, 12 May 2016 17:07:40 GMT] "GET /images/Logohvit-tekst.png" 304 - - 14.250 ms
+[Thu, 12 May 2016 17:07:40 GMT] "GET /javascripts/indexejs.js" 304 - - 12.829 ms
+Success
+[Thu, 12 May 2016 17:07:40 GMT] "GET /images/Search.png" 304 - - 6.749 ms
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+{ pageNum: '1',
+  orderBy: 'PPK',
+  search: '',
+  pmin: '12314123',
+  pmax: '',
+  vmin: '',
+  vmax: '' }
+{ pageNum: '2',
+  orderBy: 'PPK',
+  search: '',
+  pmin: '',
+  pmax: '',
+  vmin: '',
+  vmax: '' }
+0
+[Thu, 12 May 2016 17:07:42 GMT] "GET /?pageNum=1&orderBy=PPK&search=&pmin=12314123&pmax=&vmin=&vmax=" 200 8595 - 177.265 ms
+14354
+[Thu, 12 May 2016 17:07:42 GMT] "GET /?pageNum=2&orderBy=PPK&search=&pmin=&pmax=&vmin=&vmax=" 200 11199 - 191.634 ms
+[Thu, 12 May 2016 17:07:42 GMT] "GET /stylesheets/pure-min.css" 304 - - 45.518 ms
+[Thu, 12 May 2016 17:07:42 GMT] "GET /stylesheets/style.css" 304 - - 43.067 ms
+[Thu, 12 May 2016 17:07:42 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 41.845 ms
+[Thu, 12 May 2016 17:07:42 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 42.694 ms
+[Thu, 12 May 2016 17:07:42 GMT] "GET /javascripts/cookie.js" 304 - - 50.155 ms
+[Thu, 12 May 2016 17:07:42 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 49.071 ms
+Success
+[Thu, 12 May 2016 17:07:42 GMT] "GET /stylesheets/pure-min.css" 304 - - 63.939 ms
+[Thu, 12 May 2016 17:07:42 GMT] "GET /stylesheets/style.css" 304 - - 62.787 ms
+[Thu, 12 May 2016 17:07:42 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 62.088 ms
+[Thu, 12 May 2016 17:07:42 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 60.897 ms
+[Thu, 12 May 2016 17:07:42 GMT] "GET /javascripts/cookie.js" 304 - - 59.747 ms
+[Thu, 12 May 2016 17:07:42 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 58.506 ms
+[Thu, 12 May 2016 17:07:42 GMT] "GET /javascripts/indexejs.js" 304 - - 57.397 ms
+[Thu, 12 May 2016 17:07:42 GMT] "GET /images/Logohvit-tekst.png" 304 - - 56.231 ms
+[Thu, 12 May 2016 17:07:42 GMT] "GET /javascripts/indexejs.js" 304 - - 15.329 ms
+[Thu, 12 May 2016 17:07:42 GMT] "GET /images/Logohvit-tekst.png" 304 - - 13.694 ms
+Success
+[Thu, 12 May 2016 17:07:42 GMT] "GET /images/Search.png" 304 - - 6.638 ms
+[Thu, 12 May 2016 17:07:42 GMT] "GET /images/Search.png" 304 - - 6.827 ms
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+{ pageNum: '1',
+  orderBy: 'PPK',
+  search: '',
+  pmin: '',
+  pmax: '',
+  vmin: '',
+  vmax: '' }
+Success
+14354
+[Thu, 12 May 2016 17:07:43 GMT] "GET /?pageNum=1&orderBy=PPK&search=&pmin=&pmax=&vmin=&vmax=" 200 11129 - 177.132 ms
+Success
+[Thu, 12 May 2016 17:07:43 GMT] "GET /stylesheets/pure-min.css" 304 - - 45.234 ms
+[Thu, 12 May 2016 17:07:43 GMT] "GET /stylesheets/style.css" 304 - - 43.859 ms
+[Thu, 12 May 2016 17:07:43 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 43.244 ms
+[Thu, 12 May 2016 17:07:43 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 41.802 ms
+[Thu, 12 May 2016 17:07:43 GMT] "GET /javascripts/cookie.js" 304 - - 40.969 ms
+[Thu, 12 May 2016 17:07:43 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 39.733 ms
+[Thu, 12 May 2016 17:07:43 GMT] "GET /images/Logohvit-tekst.png" 304 - - 14.501 ms
+[Thu, 12 May 2016 17:07:43 GMT] "GET /javascripts/indexejs.js" 304 - - 13.240 ms
+Success
+[Thu, 12 May 2016 17:07:43 GMT] "GET /images/Search.png" 304 - - 6.344 ms
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+{ pageNum: '2',
+  orderBy: 'PPK',
+  search: '',
+  pmin: '',
+  pmax: '',
+  vmin: '',
+  vmax: '' }
+14354
+[Thu, 12 May 2016 17:07:47 GMT] "GET /?pageNum=2&orderBy=PPK&search=&pmin=&pmax=&vmin=&vmax=" 304 - - 230.875 ms
+[Thu, 12 May 2016 17:07:47 GMT] "GET /stylesheets/pure-min.css" 304 - - 44.653 ms
+[Thu, 12 May 2016 17:07:47 GMT] "GET /stylesheets/style.css" 304 - - 43.496 ms
+[Thu, 12 May 2016 17:07:47 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 42.724 ms
+[Thu, 12 May 2016 17:07:47 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 41.830 ms
+[Thu, 12 May 2016 17:07:47 GMT] "GET /javascripts/cookie.js" 304 - - 47.958 ms
+[Thu, 12 May 2016 17:07:47 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 46.873 ms
+[Thu, 12 May 2016 17:07:47 GMT] "GET /images/Logohvit-tekst.png" 304 - - 14.025 ms
+[Thu, 12 May 2016 17:07:47 GMT] "GET /javascripts/indexejs.js" 304 - - 12.811 ms
+Success
+[Thu, 12 May 2016 17:07:47 GMT] "GET /images/Search.png" 304 - - 6.407 ms
+Success
+Success
+Success
+Success
+Success
+{ pageNum: '3',
+  orderBy: 'PPK',
+  search: '',
+  pmin: '',
+  pmax: '',
+  vmin: '',
+  vmax: '' }
+Success
+Success
+14354
+Success
+[Thu, 12 May 2016 17:07:48 GMT] "GET /?pageNum=3&orderBy=PPK&search=&pmin=&pmax=&vmin=&vmax=" 304 - - 286.996 ms
+Success
+[Thu, 12 May 2016 17:07:48 GMT] "GET /stylesheets/pure-min.css" 304 - - 45.067 ms
+[Thu, 12 May 2016 17:07:48 GMT] "GET /stylesheets/style.css" 304 - - 44.107 ms
+[Thu, 12 May 2016 17:07:48 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 43.327 ms
+[Thu, 12 May 2016 17:07:48 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 42.573 ms
+[Thu, 12 May 2016 17:07:48 GMT] "GET /javascripts/cookie.js" 304 - - 41.599 ms
+[Thu, 12 May 2016 17:07:48 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 39.623 ms
+Success
+[Thu, 12 May 2016 17:07:48 GMT] "GET /images/Logohvit-tekst.png" 304 - - 18.068 ms
+[Thu, 12 May 2016 17:07:48 GMT] "GET /javascripts/indexejs.js" 304 - - 12.867 ms
+[Thu, 12 May 2016 17:07:48 GMT] "GET /images/Search.png" 304 - - 6.337 ms
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+{}
+[Thu, 12 May 2016 17:08:02 GMT] "GET /" 304 - - 106.207 ms
+[Thu, 12 May 2016 17:08:02 GMT] "GET /stylesheets/pure-min.css" 304 - - 45.046 ms
+[Thu, 12 May 2016 17:08:02 GMT] "GET /stylesheets/style.css" 304 - - 43.518 ms
+[Thu, 12 May 2016 17:08:02 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 42.726 ms
+[Thu, 12 May 2016 17:08:02 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 42.038 ms
+[Thu, 12 May 2016 17:08:02 GMT] "GET /javascripts/cookie.js" 304 - - 40.714 ms
+[Thu, 12 May 2016 17:08:02 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 39.554 ms
+[Thu, 12 May 2016 17:08:02 GMT] "GET /images/Logohvit-tekst.png" 304 - - 14.055 ms
+[Thu, 12 May 2016 17:08:02 GMT] "GET /javascripts/indexejs.js" 304 - - 13.125 ms
+[Thu, 12 May 2016 17:08:02 GMT] "GET /images/Search.png" 304 - - 6.558 ms
+{}
+[Thu, 12 May 2016 17:09:44 GMT] "GET /" 304 - - 177.448 ms
+[Thu, 12 May 2016 17:09:44 GMT] "GET /stylesheets/pure-min.css" 304 - - 44.740 ms
+[Thu, 12 May 2016 17:09:44 GMT] "GET /stylesheets/style.css" 304 - - 43.374 ms
+[Thu, 12 May 2016 17:09:44 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 42.570 ms
+[Thu, 12 May 2016 17:09:44 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 41.933 ms
+[Thu, 12 May 2016 17:09:44 GMT] "GET /javascripts/cookie.js" 304 - - 40.602 ms
+[Thu, 12 May 2016 17:09:44 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 39.303 ms
+[Thu, 12 May 2016 17:09:44 GMT] "GET /images/Logohvit-tekst.png" 304 - - 13.946 ms
+[Thu, 12 May 2016 17:09:44 GMT] "GET /javascripts/indexejs.js" 304 - - 13.055 ms
+[Thu, 12 May 2016 17:09:44 GMT] "GET /images/Search.png" 304 - - 6.620 ms
+[Thu, 12 May 2016 17:10:33 GMT] "GET /images/placeholder_logo.png" 404 886 - 36.526 ms
+{}
+[Thu, 12 May 2016 17:10:41 GMT] "GET /" 304 - - 108.584 ms
+[Thu, 12 May 2016 17:10:41 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 38.963 ms
+[Thu, 12 May 2016 17:10:41 GMT] "GET /stylesheets/pure-min.css" 304 - - 36.460 ms
+[Thu, 12 May 2016 17:10:41 GMT] "GET /stylesheets/style.css" 304 - - 35.234 ms
+[Thu, 12 May 2016 17:10:41 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 34.302 ms
+[Thu, 12 May 2016 17:10:41 GMT] "GET /javascripts/cookie.js" 304 - - 33.866 ms
+[Thu, 12 May 2016 17:10:41 GMT] "GET /images/Logohvit-tekst.png" 304 - - 21.923 ms
+[Thu, 12 May 2016 17:10:41 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 20.501 ms
+[Thu, 12 May 2016 17:10:41 GMT] "GET /javascripts/indexejs.js" 304 - - 19.162 ms
+[Thu, 12 May 2016 17:10:41 GMT] "GET /images/Search.png" 304 - - 6.184 ms
+{ pageNum: '1',
+  orderBy: 'PPK',
+  search: 'Rosatello',
+  pmin: '',
+  pmax: '',
+  vmin: '',
+  vmax: '' }
+1
+[Thu, 12 May 2016 17:12:28 GMT] "GET /?pageNum=1&orderBy=PPK&search=Rosatello&pmin=&pmax=&vmin=&vmax=" 200 9109 - 237.515 ms
+Success
+[Thu, 12 May 2016 17:12:28 GMT] "GET /stylesheets/pure-min.css" 304 - - 6.338 ms
+[Thu, 12 May 2016 17:12:28 GMT] "GET /stylesheets/style.css" 304 - - 15.412 ms
+[Thu, 12 May 2016 17:12:28 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 12.714 ms
+[Thu, 12 May 2016 17:12:29 GMT] "GET /javascripts/cookie.js" 304 - - 30.039 ms
+[Thu, 12 May 2016 17:12:29 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 28.981 ms
+[Thu, 12 May 2016 17:12:29 GMT] "GET /javascripts/indexejs.js" 304 - - 27.628 ms
+[Thu, 12 May 2016 17:12:29 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 33.387 ms
+[Thu, 12 May 2016 17:12:29 GMT] "GET /images/Logohvit-tekst.png" 304 - - 7.311 ms
+[Thu, 12 May 2016 17:12:29 GMT] "GET /images/Search.png" 304 - - 6.448 ms
+{}
+[Thu, 12 May 2016 17:12:38 GMT] "GET /linkClick?url=http%3A%2F%2Ffattigstudent.no%2F" 304 - - 110.550 ms
+[Thu, 12 May 2016 17:12:38 GMT] "GET /" 304 - - 178.213 ms
+[Thu, 12 May 2016 17:12:38 GMT] "GET /stylesheets/pure-min.css" 304 - - 38.687 ms
+[Thu, 12 May 2016 17:12:38 GMT] "GET /stylesheets/style.css" 304 - - 36.029 ms
+[Thu, 12 May 2016 17:12:38 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 34.651 ms
+[Thu, 12 May 2016 17:12:38 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 33.964 ms
+[Thu, 12 May 2016 17:12:38 GMT] "GET /javascripts/cookie.js" 304 - - 33.217 ms
+[Thu, 12 May 2016 17:12:38 GMT] "GET /images/Logohvit-tekst.png" 304 - - 22.083 ms
+[Thu, 12 May 2016 17:12:38 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 20.438 ms
+[Thu, 12 May 2016 17:12:38 GMT] "GET /javascripts/indexejs.js" 304 - - 19.414 ms
+[Thu, 12 May 2016 17:12:38 GMT] "GET /images/Search.png" 304 - - 6.331 ms
+{ pageNum: '2',
+  orderBy: '',
+  search: '',
+  pmin: '',
+  pmax: '',
+  vmin: '',
+  vmax: '' }
+14354
+[Thu, 12 May 2016 17:12:41 GMT] "GET /?pageNum=2&orderBy=&search=&pmin=&pmax=&vmin=&vmax=" 304 - - 175.220 ms
+Success
+[Thu, 12 May 2016 17:12:41 GMT] "GET /stylesheets/style.css" 304 - - 46.512 ms
+[Thu, 12 May 2016 17:12:41 GMT] "GET /stylesheets/pure-min.css" 304 - - 43.829 ms
+[Thu, 12 May 2016 17:12:41 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 43.350 ms
+[Thu, 12 May 2016 17:12:41 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 42.544 ms
+[Thu, 12 May 2016 17:12:41 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 41.807 ms
+[Thu, 12 May 2016 17:12:41 GMT] "GET /javascripts/cookie.js" 304 - - 40.482 ms
+Success
+[Thu, 12 May 2016 17:12:41 GMT] "GET /images/Logohvit-tekst.png" 304 - - 17.810 ms
+[Thu, 12 May 2016 17:12:41 GMT] "GET /javascripts/indexejs.js" 304 - - 12.777 ms
+Success
+[Thu, 12 May 2016 17:12:42 GMT] "GET /images/Search.png" 304 - - 6.588 ms
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+{}
+[Thu, 12 May 2016 17:22:21 GMT] "GET /" 304 - - 187.242 ms
+[Thu, 12 May 2016 17:22:22 GMT] "GET /stylesheets/pure-min.css" 304 - - 28.964 ms
+[Thu, 12 May 2016 17:22:22 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 29.238 ms
+[Thu, 12 May 2016 17:22:22 GMT] "GET /stylesheets/style.css" 304 - - 28.792 ms
+[Thu, 12 May 2016 17:22:22 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 27.654 ms
+[Thu, 12 May 2016 17:22:22 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 21.611 ms
+[Thu, 12 May 2016 17:22:22 GMT] "GET /javascripts/indexejs.js" 304 - - 20.850 ms
+[Thu, 12 May 2016 17:22:22 GMT] "GET /javascripts/cookie.js" 304 - - 19.712 ms
+[Thu, 12 May 2016 17:22:22 GMT] "GET /images/Logohvit-tekst.png" 304 - - 6.202 ms
+[Thu, 12 May 2016 17:22:22 GMT] "GET /images/Search.png" 304 - - 6.317 ms
+[Thu, 12 May 2016 17:22:22 GMT] "GET /visitationCounter" 200 31 - 103.420 ms
+{}
+[Thu, 12 May 2016 17:22:38 GMT] "GET /" 304 - - 126.834 ms
+[Thu, 12 May 2016 17:22:38 GMT] "GET /stylesheets/pure-min.css" 200 21340 - 86.446 ms
+[Thu, 12 May 2016 17:22:38 GMT] "GET /stylesheets/style.css" 200 2677 - 87.663 ms
+[Thu, 12 May 2016 17:22:38 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 200 10901 - 87.077 ms
+[Thu, 12 May 2016 17:22:38 GMT] "GET /stylesheets/html5tooltips.css" 200 1512 - 84.839 ms
+[Thu, 12 May 2016 17:22:38 GMT] "GET /javascripts/HTMLToolTips.js" 200 21237 - 81.020 ms
+[Thu, 12 May 2016 17:22:38 GMT] "GET /javascripts/cookie.js" 200 4818 - 83.842 ms
+[Thu, 12 May 2016 17:22:38 GMT] "GET /javascripts/indexejs.js" 200 7059 - 11.562 ms
+[Thu, 12 May 2016 17:22:38 GMT] "GET /images/Search.png" 200 389 - 24.119 ms
+[Thu, 12 May 2016 17:22:38 GMT] "GET /images/Logohvit-tekst.png" 200 61973 - 24.128 ms
+{ pageNum: '1',
+  orderBy: 'PPK',
+  search: '',
+  pmin: '',
+  pmax: '',
+  vmin: '',
+  vmax: '' }
+14354
+[Thu, 12 May 2016 17:22:40 GMT] "GET /?pageNum=1&orderBy=PPK&search=&pmin=&pmax=&vmin=&vmax=" 200 11129 - 198.997 ms
+[Thu, 12 May 2016 17:22:40 GMT] "GET /stylesheets/pure-min.css" 304 - - 45.144 ms
+[Thu, 12 May 2016 17:22:40 GMT] "GET /stylesheets/style.css" 304 - - 43.753 ms
+[Thu, 12 May 2016 17:22:40 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 42.464 ms
+[Thu, 12 May 2016 17:22:40 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 49.411 ms
+[Thu, 12 May 2016 17:22:40 GMT] "GET /javascripts/cookie.js" 304 - - 48.289 ms
+[Thu, 12 May 2016 17:22:40 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 46.953 ms
+[Thu, 12 May 2016 17:22:40 GMT] "GET /javascripts/indexejs.js" 304 - - 14.809 ms
+[Thu, 12 May 2016 17:22:40 GMT] "GET /images/Logohvit-tekst.png" 304 - - 13.264 ms
+[Thu, 12 May 2016 17:22:40 GMT] "GET /images/Search.png" 304 - - 6.405 ms
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+{ pageNum: '1',
+  orderBy: 'PPK',
+  search: 'viking',
+  pmin: '',
+  pmax: '',
+  vmin: '',
+  vmax: '' }
+29
+[Thu, 12 May 2016 17:24:18 GMT] "GET /?pageNum=1&orderBy=PPK&search=viking&pmin=&pmax=&vmin=&vmax=" 200 11155 - 264.671 ms
+Success
+[Thu, 12 May 2016 17:24:18 GMT] "GET /stylesheets/pure-min.css" 304 - - 45.104 ms
+[Thu, 12 May 2016 17:24:18 GMT] "GET /stylesheets/style.css" 304 - - 44.262 ms
+[Thu, 12 May 2016 17:24:18 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 43.966 ms
+[Thu, 12 May 2016 17:24:18 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 43.601 ms
+[Thu, 12 May 2016 17:24:18 GMT] "GET /javascripts/cookie.js" 304 - - 42.377 ms
+[Thu, 12 May 2016 17:24:18 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 41.292 ms
+Success
+[Thu, 12 May 2016 17:24:18 GMT] "GET /images/Logohvit-tekst.png" 304 - - 17.654 ms
+[Thu, 12 May 2016 17:24:18 GMT] "GET /javascripts/indexejs.js" 304 - - 12.978 ms
+[Thu, 12 May 2016 17:24:18 GMT] "GET /images/Search.png" 304 - - 6.416 ms
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+{}
+[Thu, 12 May 2016 17:24:27 GMT] "GET /" 304 - - 105.789 ms
+[Thu, 12 May 2016 17:24:27 GMT] "GET /stylesheets/pure-min.css" 200 21340 - 80.355 ms
+[Thu, 12 May 2016 17:24:27 GMT] "GET /stylesheets/style.css" 200 2677 - 81.091 ms
+[Thu, 12 May 2016 17:24:27 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 200 10901 - 80.259 ms
+[Thu, 12 May 2016 17:24:27 GMT] "GET /stylesheets/html5tooltips.css" 200 1512 - 80.691 ms
+[Thu, 12 May 2016 17:24:27 GMT] "GET /javascripts/HTMLToolTips.js" 200 21237 - 79.209 ms
+[Thu, 12 May 2016 17:24:27 GMT] "GET /javascripts/cookie.js" 200 4818 - 82.293 ms
+[Thu, 12 May 2016 17:24:27 GMT] "GET /javascripts/indexejs.js" 200 7059 - 27.041 ms
+[Thu, 12 May 2016 17:24:27 GMT] "GET /images/Logohvit-tekst.png" 200 61973 - 20.198 ms
+[Thu, 12 May 2016 17:24:27 GMT] "GET /images/Search.png" 200 389 - 11.312 ms
+{ pageNum: '1',
+  orderBy: 'PPK',
+  search: 'viking',
+  pmin: '',
+  pmax: '',
+  vmin: '',
+  vmax: '' }
+29
+[Thu, 12 May 2016 17:26:38 GMT] "GET /?pageNum=1&orderBy=PPK&search=viking&pmin=&pmax=&vmin=&vmax=" 304 - - 257.075 ms
+Success
+Success
+[Thu, 12 May 2016 17:26:38 GMT] "GET /stylesheets/pure-min.css" 200 21340 - 83.765 ms
+[Thu, 12 May 2016 17:26:38 GMT] "GET /stylesheets/style.css" 200 2673 - 84.593 ms
+[Thu, 12 May 2016 17:26:38 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 200 10901 - 85.215 ms
+[Thu, 12 May 2016 17:26:38 GMT] "GET /stylesheets/html5tooltips.css" 200 1512 - 86.234 ms
+[Thu, 12 May 2016 17:26:38 GMT] "GET /javascripts/HTMLToolTips.js" 200 21237 - 85.693 ms
+[Thu, 12 May 2016 17:26:39 GMT] "GET /javascripts/cookie.js" 200 4818 - 88.270 ms
+Success
+[Thu, 12 May 2016 17:26:39 GMT] "GET /javascripts/indexejs.js" 200 7219 - 31.905 ms
+[Thu, 12 May 2016 17:26:39 GMT] "GET /images/Logohvit-tekst.png" 200 61973 - 32.600 ms
+[Thu, 12 May 2016 17:26:39 GMT] "GET /images/Search.png" 200 389 - 10.738 ms
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+{}
+[Thu, 12 May 2016 17:27:17 GMT] "GET /" 304 - - 105.980 ms
+[Thu, 12 May 2016 17:27:18 GMT] "GET /stylesheets/pure-min.css" 200 21340 - 80.138 ms
+[Thu, 12 May 2016 17:27:18 GMT] "GET /stylesheets/style.css" 200 2673 - 81.749 ms
+[Thu, 12 May 2016 17:27:18 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 200 10901 - 82.634 ms
+[Thu, 12 May 2016 17:27:18 GMT] "GET /stylesheets/html5tooltips.css" 200 1512 - 84.689 ms
+[Thu, 12 May 2016 17:27:18 GMT] "GET /javascripts/HTMLToolTips.js" 200 21237 - 82.142 ms
+[Thu, 12 May 2016 17:27:18 GMT] "GET /javascripts/cookie.js" 200 4818 - 85.417 ms
+[Thu, 12 May 2016 17:27:18 GMT] "GET /javascripts/indexejs.js" 200 7219 - 26.658 ms
+[Thu, 12 May 2016 17:27:18 GMT] "GET /images/Logohvit-tekst.png" 200 61973 - 24.849 ms
+[Thu, 12 May 2016 17:27:18 GMT] "GET /images/Search.png" 200 389 - 11.207 ms
+{ pageNum: '1',
+  orderBy: 'PPK',
+  search: '',
+  pmin: '900',
+  pmax: '',
+  vmin: '',
+  vmax: '' }
+892
+[Thu, 12 May 2016 17:27:28 GMT] "GET /?pageNum=1&orderBy=PPK&search=&pmin=900&pmax=&vmin=&vmax=" 200 11058 - 215.278 ms
+[Thu, 12 May 2016 17:27:29 GMT] "GET /stylesheets/pure-min.css" 304 - - 45.203 ms
+[Thu, 12 May 2016 17:27:29 GMT] "GET /stylesheets/style.css" 304 - - 44.843 ms
+[Thu, 12 May 2016 17:27:29 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 44.446 ms
+[Thu, 12 May 2016 17:27:29 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 43.194 ms
+[Thu, 12 May 2016 17:27:29 GMT] "GET /javascripts/cookie.js" 304 - - 41.905 ms
+[Thu, 12 May 2016 17:27:29 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 40.808 ms
+Success
+[Thu, 12 May 2016 17:27:29 GMT] "GET /images/Logohvit-tekst.png" 304 - - 17.508 ms
+[Thu, 12 May 2016 17:27:29 GMT] "GET /javascripts/indexejs.js" 304 - - 12.792 ms
+[Thu, 12 May 2016 17:27:29 GMT] "GET /images/Search.png" 304 - - 6.528 ms
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+{ pageNum: '1',
+  orderBy: 'Pris',
+  ASC: 'on',
+  search: '',
+  pmin: '900',
+  pmax: '',
+  vmin: '',
+  vmax: '' }
+892
+[Thu, 12 May 2016 17:27:32 GMT] "GET /?pageNum=1&orderBy=Pris&ASC=on&search=&pmin=900&pmax=&vmin=&vmax=" 200 11147 - 216.132 ms
+[Thu, 12 May 2016 17:27:32 GMT] "GET /stylesheets/pure-min.css" 304 - - 45.194 ms
+[Thu, 12 May 2016 17:27:32 GMT] "GET /stylesheets/style.css" 304 - - 43.807 ms
+[Thu, 12 May 2016 17:27:32 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 43.062 ms
+[Thu, 12 May 2016 17:27:33 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 42.312 ms
+[Thu, 12 May 2016 17:27:33 GMT] "GET /javascripts/cookie.js" 304 - - 41.080 ms
+[Thu, 12 May 2016 17:27:33 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 39.836 ms
+[Thu, 12 May 2016 17:27:33 GMT] "GET /images/Logohvit-tekst.png" 304 - - 14.340 ms
+[Thu, 12 May 2016 17:27:33 GMT] "GET /javascripts/indexejs.js" 304 - - 13.545 ms
+[Thu, 12 May 2016 17:27:33 GMT] "GET /images/Search.png" 304 - - 6.345 ms
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+{}
+[Thu, 12 May 2016 17:27:37 GMT] "GET /" 304 - - 105.993 ms
+[Thu, 12 May 2016 17:27:37 GMT] "GET /stylesheets/style.css" 200 2673 - 79.749 ms
+[Thu, 12 May 2016 17:27:37 GMT] "GET /stylesheets/pure-min.css" 200 21340 - 80.192 ms
+[Thu, 12 May 2016 17:27:37 GMT] "GET /stylesheets/html5tooltips.css" 200 1512 - 81.091 ms
+[Thu, 12 May 2016 17:27:37 GMT] "GET /javascripts/cookie.js" 200 4818 - 80.035 ms
+[Thu, 12 May 2016 17:27:37 GMT] "GET /javascripts/HTMLToolTips.js" 200 21237 - 81.423 ms
+[Thu, 12 May 2016 17:27:37 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 200 10901 - 81.706 ms
+[Thu, 12 May 2016 17:27:37 GMT] "GET /javascripts/indexejs.js" 200 7219 - 12.073 ms
+[Thu, 12 May 2016 17:27:37 GMT] "GET /images/Logohvit-tekst.png" 200 61973 - 11.464 ms
+[Thu, 12 May 2016 17:27:38 GMT] "GET /images/Search.png" 200 389 - 10.247 ms
+{}
+[Thu, 12 May 2016 17:27:48 GMT] "GET /" 200 11121 - 112.606 ms
+[Thu, 12 May 2016 17:27:48 GMT] "GET /stylesheets/pure-min.css" 200 21340 - 77.867 ms
+[Thu, 12 May 2016 17:27:48 GMT] "GET /stylesheets/style.css" 200 2673 - 79.365 ms
+[Thu, 12 May 2016 17:27:48 GMT] "GET /stylesheets/html5tooltips.css" 200 1512 - 76.561 ms
+[Thu, 12 May 2016 17:27:48 GMT] "GET /javascripts/cookie.js" 200 4818 - 79.063 ms
+[Thu, 12 May 2016 17:27:48 GMT] "GET /javascripts/HTMLToolTips.js" 200 21237 - 80.694 ms
+[Thu, 12 May 2016 17:27:48 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 200 10901 - 79.057 ms
+[Thu, 12 May 2016 17:27:48 GMT] "GET /javascripts/indexejs.js" 200 7219 - 25.151 ms
+[Thu, 12 May 2016 17:27:48 GMT] "GET /images/Logohvit-tekst.png" 200 61973 - 25.261 ms
+[Thu, 12 May 2016 17:27:48 GMT] "GET /images/Search.png" 200 389 - 11.291 ms
+{}
+[Thu, 12 May 2016 17:28:17 GMT] "GET /" 200 10794 - 109.662 ms
+[Thu, 12 May 2016 17:28:17 GMT] "GET /stylesheets/pure-min.css" 304 - - 44.605 ms
+[Thu, 12 May 2016 17:28:17 GMT] "GET /stylesheets/style.css" 304 - - 43.953 ms
+[Thu, 12 May 2016 17:28:17 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 43.624 ms
+[Thu, 12 May 2016 17:28:17 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 42.907 ms
+[Thu, 12 May 2016 17:28:17 GMT] "GET /javascripts/cookie.js" 304 - - 41.930 ms
+[Thu, 12 May 2016 17:28:17 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 41.217 ms
+[Thu, 12 May 2016 17:28:17 GMT] "GET /images/Logohvit-tekst.png" 304 - - 14.098 ms
+[Thu, 12 May 2016 17:28:17 GMT] "GET /javascripts/indexejs.js" 304 - - 13.105 ms
+[Thu, 12 May 2016 17:28:17 GMT] "GET /images/Search.png" 304 - - 9.839 ms
+{ pageNum: '1',
+  orderBy: 'Pris',
+  ASC: 'on',
+  search: '',
+  pmin: '900',
+  pmax: '',
+  vmin: '',
+  vmax: '' }
+892
+[Thu, 12 May 2016 17:28:38 GMT] "GET /?pageNum=1&orderBy=Pris&ASC=on&search=&pmin=900&pmax=&vmin=&vmax=" 200 10802 - 201.091 ms
+Success
+Success
+[Thu, 12 May 2016 17:28:38 GMT] "GET /stylesheets/pure-min.css" 200 21340 - 84.685 ms
+[Thu, 12 May 2016 17:28:38 GMT] "GET /stylesheets/style.css" 200 2673 - 84.079 ms
+[Thu, 12 May 2016 17:28:38 GMT] "GET /stylesheets/html5tooltips.css" 200 1512 - 83.103 ms
+[Thu, 12 May 2016 17:28:38 GMT] "GET /javascripts/cookie.js" 200 4818 - 85.417 ms
+[Thu, 12 May 2016 17:28:38 GMT] "GET /javascripts/HTMLToolTips.js" 200 21237 - 85.896 ms
+[Thu, 12 May 2016 17:28:38 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 200 10901 - 84.771 ms
+Success
+[Thu, 12 May 2016 17:28:38 GMT] "GET /javascripts/indexejs.js" 200 7219 - 29.295 ms
+[Thu, 12 May 2016 17:28:38 GMT] "GET /images/Logohvit-tekst.png" 200 61973 - 28.759 ms
+[Thu, 12 May 2016 17:28:39 GMT] "GET /images/Search.png" 200 389 - 12.708 ms
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+{}
+[Thu, 12 May 2016 17:28:41 GMT] "GET /" 200 10794 - 105.081 ms
+[Thu, 12 May 2016 17:28:41 GMT] "GET /stylesheets/pure-min.css" 304 - - 45.101 ms
+[Thu, 12 May 2016 17:28:41 GMT] "GET /stylesheets/style.css" 304 - - 43.492 ms
+[Thu, 12 May 2016 17:28:41 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 304 - - 42.726 ms
+[Thu, 12 May 2016 17:28:41 GMT] "GET /stylesheets/html5tooltips.css" 304 - - 41.970 ms
+[Thu, 12 May 2016 17:28:41 GMT] "GET /javascripts/cookie.js" 304 - - 40.663 ms
+[Thu, 12 May 2016 17:28:41 GMT] "GET /javascripts/HTMLToolTips.js" 304 - - 39.445 ms
+[Thu, 12 May 2016 17:28:41 GMT] "GET /images/Logohvit-tekst.png" 304 - - 13.947 ms
+[Thu, 12 May 2016 17:28:41 GMT] "GET /javascripts/indexejs.js" 304 - - 12.703 ms
+[Thu, 12 May 2016 17:28:41 GMT] "GET /images/Search.png" 304 - - 6.440 ms
+[Thu, 12 May 2016 17:33:55 GMT] "GET /images/placeholder_logo.png" 404 886 - 17.869 ms
+{ pageNum: '1',
+  orderBy: 'PPK',
+  search: 'Finn',
+  pmin: '',
+  pmax: '',
+  vmin: '',
+  vmax: '' }
+7
+[Thu, 12 May 2016 17:39:30 GMT] "GET /?pageNum=1&orderBy=PPK&search=Finn&pmin=&pmax=&vmin=&vmax=" 200 10241 - 267.238 ms
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+[Thu, 12 May 2016 17:39:30 GMT] "GET /stylesheets/pure-min.css" 200 21340 - 12.412 ms
+[Thu, 12 May 2016 17:39:30 GMT] "GET /stylesheets/HTMLToolTips.Animation.css" 200 10901 - 72.943 ms
+[Thu, 12 May 2016 17:39:30 GMT] "GET /stylesheets/html5tooltips.css" 200 1512 - 68.877 ms
+[Thu, 12 May 2016 17:39:30 GMT] "GET /javascripts/cookie.js" 200 4818 - 68.619 ms
+[Thu, 12 May 2016 17:39:30 GMT] "GET /javascripts/HTMLToolTips.js" 200 21237 - 68.399 ms
+[Thu, 12 May 2016 17:39:30 GMT] "GET /stylesheets/style.css" 200 2673 - 72.558 ms
+[Thu, 12 May 2016 17:39:30 GMT] "GET /javascripts/indexejs.js" 200 7219 - 52.259 ms
+[Thu, 12 May 2016 17:39:31 GMT] "GET /images/Logohvit-tekst.png" 200 61973 - 12.042 ms
+[Thu, 12 May 2016 17:39:31 GMT] "GET /images/Search.png" 200 389 - 10.480 ms
+[Thu, 12 May 2016 17:39:44 GMT] "GET /linkClick?url=http%3A%2F%2Fwww.vinmonopolet.no%2Fvareutvalg%2Fvaredetaljer%2Fsku-4143502" 200 34 - 112.909 ms
+[Thu, 12 May 2016 17:39:54 GMT] "GET /linkClick?url=http%3A%2F%2Fwww.vinmonopolet.no%2Fvareutvalg%2Fvaredetaljer%2Fsku-5970802" 200 34 - 124.013 ms
+[Thu, 12 May 2016 17:39:59 GMT] "GET /linkClick?url=http%3A%2F%2Fwww.vinmonopolet.no%2Fvareutvalg%2Fvaredetaljer%2Fsku-4143502" 304 - - 135.151 ms
