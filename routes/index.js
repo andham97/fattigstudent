@@ -162,7 +162,7 @@ router.get('/', function (req, res, next) {
                 return;
             }
             if (req.query.search == undefined) {
-                connection.query("SELECT Varenavn, Varetype, Alkohol, Pris, Volum, PPK, Vareurl, Varenummer FROM PPK LIMIT 10", function (err, rows) {
+                connection.query("SELECT Varenavn, Varetype, Alkohol, Pris, Volum, PPK, Vareurl, Varenummer FROM PPK ORDER BY PPK DESC LIMIT 10", function (err, rows) {
                     connection.release();
                     if (!err) {
                         if (rows.length == 0)
